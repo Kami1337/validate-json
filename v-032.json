@@ -1,0 +1,292 @@
+{
+	"name":"V-032: Tipping Hall Controller (MRF)",
+	"sections": [
+		{
+		"key":"A-Work-Process:-Preparation",
+		"name":"A - Work Process: Preparation",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative selects and wears the personal protective equipment for undertaking duties in the tipping hall",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative uses pedestrian safe zones when moving around the site",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Work-Process:-The-Tipping-Hall",
+		"name":"B - Work Process: The Tipping Hall",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative assists with opening and closure of tipping hall to specified times and following procedure",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative directs vehicles and drivers as they arrive on site to ensure compliance with site rules and access arrangements",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative deals with customers in a polite and professional manner",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative identifies non-conforming material in the tipping zone and deals with it in accordance with organisational procedure<li>What is the organisational procedure for checking and dealing with non conforming materials in the tipping zone?</li></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative inspects the load and verifies the description with the driver",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative directs driver to the correct location within the tipping hall to deposit their load",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports accidents, incidents of damage and near misses to supervisor as soon as possible<li>What is the organisational procedure for reporting accidents and near misses?</li><li>What is the organisational procedure for reporting damage?</li></ol>"
+			},
+			{
+				"key":"B6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative confirms materials are tipped in the correct tipping zone",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports any new or specific hazards arising during operations in the tipping hall<li>What is the organisational procedure for reporting new hazards?</li><li>When are new hazards likely to arise?</li></ol>"
+			},
+			{
+				"key":"B7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative identifies non-conforming material in the tipping zone and deals with it in accordance with organisational procedure",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative correctly completes documentation for incoming loads of waste and recyclable materials",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports accidents, incidents of damage and near misses to supervisor as soon as possible",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative deals correctly with plant, equipment or vehicle breakdowns: <li>What are the procedures that you follow in dealing with breakdowns that occur in the tipping hall?</li> <li>What are the potential impacts to normal site operation of a breakdown?</li></ol>"
+			},
+			{
+				"key":"B10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports any new or specific hazards arising during operations in the tipping hall",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows organisational procedures to control dust, noise, odour, litter, vermin or other nuisances",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative identifies hazards in adverse weather conditions such as leaves, snow, water and ice<li>What are the hazards related to snow and ice conditions?</li><li>What are the hazards related to leaves?</li><li>What are the hazards related to excess water?</li></ol>"
+			},
+			{
+				"key":"B12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows organisational procedures to minimise risk of pollution",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative carries out treatment appropriate for the hazardous condition: <li>How would you treat surfaces for snow?</li> Ice?</li> Leaves?</li> Water?</li><li>How would you unblock drains on site?</li><li>Why is this important?</li></ol>"
+			},
+			{
+				"key":"B13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative deals correctly with plant, equipment or vehicle breakdowns",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative informs relevant person(s) in the event of worsening conditions<li>Who should be informed?</li><li>Why is this important?</li></ol>"
+			},
+			{
+				"key":"B14",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative at all times conforms with health and safety regulations, codes of practice , policy and risk assessments",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"C-Work-Process:-Adverse-weather-conditions",
+		"name":"C - Work Process: Adverse weather conditions",
+		"competencies": [
+			
+			{
+				"key":"C1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative identifies hazards in adverse weather conditions such as leaves, snow, water and ice ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative carries out treatment appropriate for the hazardous condition",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative informs relevant person(s) in the event of worsening conditions",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		}
+	]
+}

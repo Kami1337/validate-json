@@ -1,0 +1,432 @@
+{
+	"name":"V-020: Litter Picking",
+	"sections": [
+		{
+		"key":"A-Work-Preparation",
+		"name":"A - Work Preparation",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative confirms instructions and location of area to be cleaned, together with any standards to be met, time constraints, weather conditions, or specific health and safety issues",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative selects and wears personal protective equipment (such as high visibility work-wear, footwear, hand protection or eye protection)",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative selects suitable equipment and materials for collection, removal and segregation of litter, detritus debris, dead animals and other anomalies",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Work-Process",
+		"name":"B - Work Process",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative safely transports equipment and materials to the area of operation",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative surveys work area and identifies a starting point that can be justified",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative uses correct method to remove litter detritus and debris from surface",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative secures equipment and materials that may be left unattended<li>why is it important to secure equipment and materials that may be left unattended?</li></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative systematically covers the area to be cleaned and does not simply focus on areas of most dense debris",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative demonstrates due regard for traffic conditions roadside collection and litter in inaccessible or dangerous locations",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative secures equipment and materials that may be left unattended ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures equipment and material do not block passages pathways or provide trip hazard",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative identifies items which need special consideration (such as sharps, glass, dog fouling ignited cigarette ends) and employs safe methods of collection",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative is courteous and polite to members of the public: <li>Why is it important to remain courteous and polite to members of the public?</li></ol>"
+			},
+			{
+				"key":"B9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative notes and reports items which cannot be safely collected to supervisor or require police attention",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative avoids conflict and confrontation<li>Describe the conflicts/ confrontations that can occur while litter picking<li>Explain how you would deal with conflicts/ confrontations that can occur while litter picking</ol>"
+			},
+			{
+				"key":"B10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative collects and segregates litter and debris into the correct containers according to waste type",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative immediately removes any skin or clothing contamination<li>Why is it important to remove any skin or clothing contamination?</li></ol>"
+			},
+			{
+				"key":"B11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative is courteous and polite to members of the public ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative immediately reports and seeks medical assistance for needle stick injury, cuts or abrasions<li>If a hypodermic needle was seen penetrating a plastic sack what action should you take?</li><li>Why is it important to immediately report and seek medical assistance for needle stick injury, cuts and abrasions?</li></ol>"
+			},
+			{
+				"key":"B12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative avoids conflict and confrontation",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative immediately removes any skin or clothing contamination ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B14",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative immediately reports and seeks medical assistance for needle stick injury, cuts or abrasions",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B15",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not overfill waste containers",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B16",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative safely transports waste to collection points",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B17",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks debris, detritus and litter have been removed from the area to the correct standard",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B18",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative undertakes remedial activity to ensure cleanliness when necessary and notifies supervisor of any further actions",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B19",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative safely transports equipment back to depot",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"C-Work-Completion",
+		"name":"C - Work Completion",
+		"competencies": [
+			
+			{
+				"key":"C1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative passes any valuable items or significant and lost items collected to supervisor or depot manager ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports any incidents or issues that need further action e.g. deliberate littering",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative cleans, disinfects and maintain equipment e.g. oil gripper joint",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative stores all equipment in correct place",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative removes personal protective equipment as necessary ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative hangs up and stores outdoor clothing that may stay on-site",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative ensures that they are aware of the training required to operate the specific equipment, use the prescribed chemicals and carry out removal techniques on the specific substrate to be treated<li>What is the training required to carry out different types of graffiti removal procedures?</li></ol>"
+			},
+			{
+				"key":"C7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative cleans hands and skin surfaces",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		}
+	]
+}

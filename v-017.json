@@ -1,0 +1,537 @@
+{
+	"name":"V-017: Mechanical Street Cleaning Operations",
+	"sections": [
+		{
+		"key":"A-Work-Equipment",
+		"name":"A - Work Equipment",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative only uses equipment issued by the company",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative confirms they have been trained to operate the mechanical street cleansing machinery",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports defective working equipment to supervisor<li>What is the procedure for reporting defective working equipment to the supervisor?</li></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks the condition of ancillary equipment before starting work",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports any damage to equipment and tools during the working day<li>What is the procedure for reporting equipment and tools damaged during the working day to your supervisor?</li></ol>"
+			},
+			{
+				"key":"A4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks the level of fuel and cleaning agents before starting work",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports defective working equipment to supervisor",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports any damage to equipment and tools during the working day",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not use defective tools or equipment",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative always wears personal protective equipment, high-visibility clothing, etc as issued by the company and in good condition and unaltered",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows company procedure for cleaning and disposing of component parts and ancillary equipment ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative cleans hands before eating, drinking, smoking or going to the toilet",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports all accidents, incidents and near misses to supervisor",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports defective vehicle and equipment to supervisor<li>What is the company procedure for reporting defective vehicles and equipment to your supervisor?</li></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Vehicle-Operations",
+		"name":"B - Vehicle Operations",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative carries out daily checks of the vehicle and ancillary equipment including hoses, brushes and suction brushes",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not use defective vehicle or equipment",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports defective vehicle and equipment to supervisor",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative remains close to vehicles with engine running whilst operating the equipment",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative applies the brake, switches off the engine and locks the doors when vehicle is unattended",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative only carries out any maintenance or repairs that they have been trained to perform<li>What is the correct training for the maintenance and repair of mechanical street cleansing equipment?</li></ol>"
+			},
+			{
+				"key":"B6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative avoids contact with moving or rotating parts",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative only carries out any maintenance or repairs that they have been authorised to perform<li>What is the company procedure for authorising maintenance and repair of mechanical street cleansing equipment?</li></ol>"
+			},
+			{
+				"key":"B7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative operates equipment from ground level",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative only carries out any maintenance or repairs that they have been trained to perform",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative only carries out any maintenance or repairs that they have been authorised to perform",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not endanger other road users when manoeuvring the mechanical street cleansing machinery",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not use personal music equipment at work",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative cleans the vehicle and ancillary equipment after street cleansing operations",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative does nothing to endanger the public while operating the vehicle and related equipment<li>What is the company procedure for ensuring that the public and other road users are not endangered when carrying out mechanical street cleansing operations?</li></ol>"
+			},
+			{
+				"key":"B13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures the vehicle is locked and secure after street cleansing operations",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative avoids any conflict or argument with the general public and withdraws politely from a difficult situation and informs supervisor immediately<li>What is the company procedure for handling any potential conflict with the public when carrying out mechanical road sweeping operations?</li></ol>"
+			}
+		]
+		},
+		{
+		"key":"C-Public-Safety",
+		"name":"C - Public Safety",
+		"competencies": [
+			
+			{
+				"key":"C1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that the flashing beacons are switched on when work is being undertaken",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does nothing to endanger the public and other road users while undertaking street cleansing operations",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative avoids any conflict or argument with the general public and withdraws politely from a difficult situation and informs supervisor immediately",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"D-Mechanical-Street-Cleansing",
+		"name":"D - Mechanical Street Cleansing",
+		"competencies": [
+			
+			{
+				"key":"D1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks working area and street furniture for any obstructions",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative chooses the correct cleaning and collection equipment for the litter, detritus or debris and the ground surface on which it is found",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that ground surface is left clean and tidy after removal of litter, detritus and debris",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative segregates litter, debris and detritus where necessary and places it in correct container",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative identifies types of litter, detritus and debris that require specialist treatment and pose a potential risk or health hazard<li>What are the major types of litter, detritus and debris that require specialist treatment?</li><li>What are the major types of litter, detritus and debris that pose a potential risk or health hazard?</li></ol>"
+			},
+			{
+				"key":"D5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative  transfers the containers to the correct collecting points",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative notifies supervisor of any hazardous litter, detritus and debris that cannot be disposed of immediately and seeks advice on how to proceed<li>What is the company procedure for notifying your supervisor about any hazardous litter, detritus and debris that cannot be disposed of immediately?</li></ol>"
+			},
+			{
+				"key":"D6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative works in a safe, systematic and logical manner",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative only disposes of potentially hazardous litter, detritus or debris that they have been trained to deal with<li>Which types of potentially hazardous litter, detritus or debris have you been trained to deal with?</li></ol>"
+			},
+			{
+				"key":"D7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative identifies types of litter, detritus and debris that pose a potential risk or health hazards and require specialist treatment",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative notifies supervisor of any hazardous litter, detritus and debris that cannot be disposed of immediately and seeks advice on how to proceed",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative only disposes of potentially hazardous litter, detritus or debris that they have been trained to deal with ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative ensures they have been trained to operate the mechanical road sweeping vehicle mounted equipment<li>What is the correct training for mechanical road sweeping operations?</li></ol>"
+			}
+		]
+		}
+	]
+}

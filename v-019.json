@@ -1,0 +1,390 @@
+{
+	"name":"V-019: Electrical Power Washers and Steam Cleaners ",
+	"sections": [
+		{
+		"key":"A-Equipment-Control-Measures",
+		"name":"A - Equipment Control Measures",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks that equipment is marked to confirm that it has been inspected recently and tested for electrical safety",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports any unmarked equipment to supervisor and sets it aside",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks that there are no obvious signs of damage or defects",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks that the controls are present and in working order",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks that cables are not damaged, worn or frayed",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks that the lance and hoses are in good working condition",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks that the socket is in good condition and has Residual Current Device Protection (RCD)",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative tests the RCD trip switch and re-set prior to use",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks that the plug is not cracked or damaged, and that all pins are securely in place",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks that the plug is securely attached to the cable and that the outer casing of the cable is securely held in the cable grip",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative is aware of and understands the precautions and emergency actions to be followed when chemical additives are to be used<li>What is a COSHH assessment?</li><li>Where can you find out about precautions to be taken and emergency procedures when using chemicals?</li></ol>"
+			},
+			{
+				"key":"A11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks power washing/steam cleaning will not damage the surface to be cleaned",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports any defects or problems to supervisor and sets equipment and materials aside<li>What is the company procedure for reporting defects in or problems with equipment and materials to your supervisor?</li></ol>"
+			},
+			{
+				"key":"A12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative understands the COSHH (control of substances hazardous to health) assessment if chemical additives and applies this knowledge where appropriate ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative does not attempt to use any item of equipment that has a label declaring it to be defective or in need of servicing<li>Why should items of equipment labeled defective or in need of service not be used?</li></ol>"
+			},
+			{
+				"key":"A13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative is aware of and understands the precautions and emergency actions to be followed when chemical additives are to be used",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A14",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports any defects or problems as specified in company procedure and sets equipment aside",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A15",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not attempt to use any item of equipment that has a label declaring it to be defective or in need of servicing",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Cleaning-Operations",
+		"name":"B - Cleaning Operations",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative always wears a waterproof suit, full face visor, safety wellingtons with protective toecaps and midsoles, and gloves when using the power washer or steam cleaner",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operator ensures hazard warning system is in place and area is cordoned",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative always wears high visibility clothing when using the power washer or steam cleaner",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative maintains a good grip of the lance and a firm footing before using the power washer or steam cleaner",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures the correct nozzle type, angle and distance from soil for effective use",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative uses a safe and designated working platform when working at height to perform tasks<li>Why is it necessary to use the platform when working at height?</li></ol>"
+			},
+			{
+				"key":"B6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative manages the cables to reduce the risk of tripping or falling",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not use the power washer or steam cleaner when there is a risk of freezing temperatures",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative does nothing to endanger the public while undertaking cleaning operations<li>What is the company procedure for ensuring that the public are not endangered when carrying out cleaning operations?</li><li>What precautions must be taken to avoid endangering members of the public?</li></ol>"
+			},
+			{
+				"key":"B8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative uses a safe and designated working platform when working at height to perform tasks",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative avoids any conflict or argument with the general public and withdraws politely from a difficult situation and informs supervisor immediately<li>What is the company procedure for avoiding conflict or argument with the general public?</li></ol>"
+			},
+			{
+				"key":"B9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not leave power washer or steam cleaner unattended when switched on and running",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"C-Public-Safety",
+		"name":"C - Public Safety",
+		"competencies": [
+			
+			{
+				"key":"C1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does nothing to endanger the public while undertaking cleaning operations",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative avoids any conflict or argument with the general public and withdraws politely from a difficult situation and informs supervisor immediately",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		}
+	]
+}

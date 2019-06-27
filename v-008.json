@@ -1,0 +1,678 @@
+{
+	"name":"V-008: Skip Operations",
+	"sections": [
+		{
+		"key":"A-Driver-and-Vehicle",
+		"name":"A - Driver and Vehicle",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver conducts daily checks listed in Defect Book in a well-lit area away from main traffic routes  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks First Aid box including eye wash to ensure it is complete",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks the external cleanliness of the vehicle including lights, number plates , indicators and windows",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that the cab is clean and free from unauthorised items",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Any defects identified are reported to supervisor<li>What is the procedure for reporting defects to supervisor?</li></ol>"
+			},
+			{
+				"key":"A5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Any defects identified and  reported to appropriate personnel",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver wears high-visibility clothing provided by the company together with any other relevant personal protective equipment ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver has required documentation for their load",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures that only authorised passengers ride in the vehicle and that seat belts are worn at required times<li>Why are unauthorised passengers not allowed to ride in the vehicle?</li></ol>"
+			},
+			{
+				"key":"A8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that only authorised passengers ride in the vehicle and that seat belts are worn at required times",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures that employees do not ride on the back or any other part of the vehicle<li>Why is it important that employees do not ride on the back or any other part of the vehicle?</li></ol>"
+			},
+			{
+				"key":"A9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that employees do not ride on the back or any other part of the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A10    ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures the safety self, the public and other road users when stopping, starting and positioning the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver operates vehicle safely: •following public highway traffic convention•with due consideration to others",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that no loading takes place while the vehicle is in motion",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver check that the vehicle is loaded safely with no over-loading or overhanging items<li>Why is it necessary to remove over-hanging items?</li><li>Why is it necessary to check the vehicle is not over-loaded?</li></ol>"
+			},
+			{
+				"key":"A13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver check that the vehicle is loaded safely with no over-loading or overhanging items",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A14",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Reversing operations are conducted safely following company procedure (or as detailed in WAP9)",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Lifting-and-Dropping-Skips",
+		"name":"B - Lifting and Dropping Skips",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver always wears company issued high-visibility clothing whenever out of the cab together with any other relevant personal protective equipment issued to them",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver is aware of and complies with all site safety rules when on customer’s premises or tipping sites and ensures that crew members comply<li>What are the major safety rules that must be complied with on customer’s premises?</li><li>What are the major safety rules that must be complied with on tipping sites?</li><li>How do you ensure that the crew know the safety rules and how do you check they comply with them?</li></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver is aware of and complies with all site safety rules when on customer’s premises or tipping sites and ensures that crew members comply",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures skip content is within scope of permit and contract for collection (so far as reasonable) and seeks removal of material where it is not",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures only authorised persons operate the lifting equipment",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures the proper operational condition of chains and ensures they are properly and securely fitted before lifting or dropping skips",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures use of all necessary stabilisers or jacks when lifting or dropping skips",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver examines skip to ensure that there are no protrusions near the tipping bar that could snag on the tipping hooks giving a false engagement condition<li>How do you check for protrusions near the tipping bar?</li><li>What is likely to happen if the protrusions are not removed?</li></ol>"
+			},
+			{
+				"key":"B7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver examines skip to ensure that there are no protrusions near the tipping bar that could snag on the tipping hooks giving a false engagement condition",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Snagging hazards are notified to supervisor<li>What is the procedure for notifying your supervisor of snagging hazards?</li></ol>"
+			},
+			{
+				"key":"B8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Snagging hazards are identified and supervisor is notified",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures the skip is not overfilled and takes appropriate action to reduce overfilled skip<li>What are the major signs that a skip has been overfilled?</li><li>What is the appropriate action to take reduce an overfilled skip?</li></ol>"
+			},
+			{
+				"key":"B9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures the skip is not overfilled and takes appropriate action to reduce overfilled skip",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver makes a visual check to ensure that the hooks have properly engaged on the catch bar",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that the use of stabilisers or jacks does not compromise the effectiveness of brakes by raising the braked wheels",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver visually assesses the drop area, the access to it, and any likely damage that may be caused to paving, grassed areas or so-called hard standings",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Where doubt exists the skip is not dropped and advice is sought from supervisor<li>What are the major reasons for deciding not to drop a skip?</li><li>What is the procedure for notifying your supervisor that you do not want to drop a skip?</li></ol>"
+			},
+			{
+				"key":"B13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Where doubt exists the skip is not dropped and advice is sought from supervisor",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B14",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Before both reversing and operating the lifting arms the driver checks that the arms come no closer than three metres to any overhead obstructions such as power cables",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B15",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that members of the public, especially children, are kept well away when loading or unloading skips",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures that skips are not left where they may cause any unauthorised blockage or obstruction of the highway and must be clearly lit when left on public roads<li>What are the major restrictions on the placement of a skip?</li><li>What checks do you carry out when leaving a skip on a public road?</li></ol>"
+			},
+			{
+				"key":"B16",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that skips are not left where they may cause any unauthorised blockage or obstruction of the highway and must be clearly lit when left on public roads",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B17",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver decides whether or not it is safe to pick up a filled skip",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver contacts supervisor in the event of overfilled or over-spilling skips<li>What is the procedure for contacting your supervisor in the case of an overfilled or over-spilling skip?</li></ol>"
+			},
+			{
+				"key":"B18",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver contacts supervisor in the event of overfilled or over-spilling skips",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver sheets skips from ground level<li>Why must skips only be sheeted at ground level?</li></ol>"
+			},
+			{
+				"key":"B19",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver sheets skips from ground level",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B20",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver does not climb onto the back of the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver applies tension chains in transit with a bungee rope to avoid chains becoming detached from the skip lugs<li>How do you identify when tension chains are required for transit of skips?</li><li>How do you apply a bungee rope to the tension chains of a skip?</li></ol>"
+			},
+			{
+				"key":"B21",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver applies tension chains in transit with a bungee rope to avoid chains becoming detached from the skip lugs",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B22",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver securely stows all sheets, chains, ropes and any other items  in the under slung box provided during transit",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver defects the vehicle if a box has not been provided and notifies supervisor<li>What is the procedure for notifying your supervisor when a box is not present?</li></ol>"
+			},
+			{
+				"key":"B23",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver defects the vehicle if a box has not been provided and notifies supervisor",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B24",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver clears any debris from the truck bed by using an extended broom or similar without climbing on the truck bed",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver contacts supervisor if in doubt about loading and removal procedures<li>What are the major concerns that would make you seek your supervisor’s advice about loading or removing a skip?</li></ol>"
+			},
+			{
+				"key":"B25",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver contacts supervisor if in doubt about loading and removal procedures",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver carries only one loaded skip on the bed of a vehicle<li>How can you tell if a vehicle is safe to carry more than one skip?</li></ol>"
+			},
+			{
+				"key":"B26",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver carries only one loaded skip on the bed of a vehicle<li>How do you go about ensuring the safety of a load with multiple containers piggy backed on each other?</li></ol>"
+			},
+			{
+				"key":"B27 ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver piggy backs empty containers only when the load can be safely secured",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"C-Tipping-Sites",
+		"name":"C - Tipping Sites",
+		"competencies": [
+			
+			{
+				"key":"C1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver complies with all site safety rules when on customer’s premises or tipping sites",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver follows tip rules in force when discharging loads at tipping sites and also ensures compliance of the crew",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver takes great care when reversing to a tip edge to prevent the vehicle from going over the edge",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver does not stand or allow others to stand or work under a suspended skip",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Visual checks are undertaken for each tipping operation ensuring that the hooks have properly engaged on the catch bar",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Drivers does not allow anyone to climb into the skip",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		}
+	]
+}

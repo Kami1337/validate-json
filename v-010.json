@@ -1,0 +1,271 @@
+{
+	"name":"V-010: Reversing Assistants Operations",
+	"sections": [
+		{
+		"key":"A-Pre-reversing-Checks",
+		"name":"A - Pre-reversing Checks",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant confirms that they have had the correct training to perform the role",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant follows driver’s instructions as to positioning during reversing",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Assistant is aware of the size and location of the crush zone<li>What is the crush zone?</li><li>In relation to the waste vehicle itself, at all times reversing assistants must be able to remain at least:-how many metres from the rear of the vehicle?</li>-how many metres from the side of the vehicle?</li></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant is aware of the size and location of the crush zone",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant checks that the reversing activity can be performed without entering the crush zone",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Assistant is aware if the route/task risk assessment forbids the use of reversing assistants<li>What is a route risk assessment?</li><li>Why is it important in relation to the reversing assistant’s role?</li></ol>"
+			},
+			{
+				"key":"A5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant is aware if the route/task risk assessment forbids the use of reversing assistants",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Reversing-Operations",
+		"name":"B - Reversing Operations",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant takes up a position which allows a full view of the rear of the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant takes up a position which keeps the driver in clear view in the reversing mirror",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant gives a clear signal to the driver to stop if changing position or approaching the driver to give additional instruction or information",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant establishes visual contact with the driver before giving a clear signal to start the reversing process after it has been stopped",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant never walks backwards when acting as a reversing assistant",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Assistant looks out for slip, trip and fall hazards when assisting the reversing process<li>What are the likely hazards to watch out for when acting as a reversing assistant?</li></ol>"
+			},
+			{
+				"key":"B6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant looks out for slip, trip and fall hazards when assisting the reversing process",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant ensures that pedestrians do not enter the crush zone",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant gives clear signal to the driver to stop if pedestrians enter the crush zone",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant uses correct stop and reverse signals to the driver in order to prevent collisions with third party vehicles or property",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Assistant reports to driver and/or supervisor when it is unsafe to reverse in line with company procedure<li>What is the company procedure for reporting when it is unsafe to reverse?</li></ol>"
+			},
+			{
+				"key":"B10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant reports to driver and/or supervisor when it is unsafe to reverse in line with company procedure",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant uses the correct hand signals and instructions throughout the reversing operation for:•Move towards guide•Move away from guide•Move to the right •Move to the left •Stop",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant makes signals which are clear, bold and consistent",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Assistant uses correct high-visibility clothing and Personal Protective Equipment when giving reversing instructions",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		}
+	]
+}

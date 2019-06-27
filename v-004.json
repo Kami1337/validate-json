@@ -1,0 +1,145 @@
+{
+	"name":"V-004: Green Waste Collection Operations",
+	"sections": [
+		{
+		"key":"A-Green-Waste-Collection",
+		"name":"A - Green Waste Collection",
+		"competencies": [
+			
+			{
+				"key":"A1     ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks bin contents for contamination and co-mingled waste",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative checks bin contents for contamination and co-mingled waste<li>What is the company procedure for checking contamination of green waste?</li><li>Which types of waste are frequently mixed with green waste?</li></ol>"
+			},
+			{
+				"key":"A2     ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative explores contents below top level with a stick or litter picker and never using hand or arm",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A3     ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative attaches a Rejection Sticker on waste that does not meet the criteria for acceptance and bin is returned to the collection point",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A4     ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative treats aggressive or abusive members of the public politely yet neutrally avoiding arguments or physical contact",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative treats aggressive or abusive members of the public politely yet neutrally avoiding arguments or physical contact<li>What is the company procedure for handling any potential conflict with the public?</li></ol>"
+			},
+			{
+				"key":"A5     ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver is informed of waste contamination in the hopper but it is not removed",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Draining-off-Liquid",
+		"name":"B - Draining-off Liquid",
+		"competencies": [
+			
+			{
+				"key":"B1     ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative locates the tank for liquid drained from compacted green waste",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2     ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative wears eye protection, water-proof gloves and skin covering  to protect from fluid",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B3     ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative rinses thoroughly under running water after any contact with the skin",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B4     ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows the correct company procedure for disposal of the drained liquid",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative follows the correct company procedure for disposal of the drained liquid<li>What is the company procedure for the disposal of drained liquid produced during green waste collection?</li></ol>"
+			}
+		]
+		}
+	]
+}

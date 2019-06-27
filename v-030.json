@@ -1,0 +1,299 @@
+{
+	"name":"V-030 Picking Line Operative (MRF)",
+	"sections": [
+		{
+		"key":"A-Work-Process:-Preparation",
+		"name":"A - Work Process: Preparation",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative selects and wears correct personal protective equipment for undertaking duties on the picking line",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative explains which are “required materials” on the moving conveyor belt carrying mixed waste<li>What are “required materials”?</li></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative changes/exchanges filter materials for face mask",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows site rules when moving around the site",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports defective personal protective equipment (PPE) and requests replacement(s)",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Work-Process:-The-Picking-Line",
+		"name":"B - Work Process: The Picking Line",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative explains which are “required materials on the moving conveyor belt carrying mixed waste",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative correctly selects and picks materials from moving conveyor belt carrying mixed waste",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative follows company procedures when containers are full<li>What are the company procedures when containers are full?</li></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative picks in a controlled and timely manner",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports all accidents, near misses and incidents of damage to relevant person(s) as soon as possible<li>What are the company procedures for reporting accidents and near misses?</li><li>What are the company procedures for reporting damage?</li></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative drops selected materials into the correct containers for waste and recyclables",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative notifies relevant person(s) when waste containers are almost full",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative identifies non-conforming materials in the picking zone and takes relevant action in accordance with company procedures<li>What action would you take if you identified non-conforming materials on the picking line?</li></ol>"
+			},
+			{
+				"key":"B6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows company procedures when containers are full ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports all accidents, near misses and incidents of damage to relevant person(s) as soon as possible",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative correctly follows company procedures in the event of machinery or equipment malfunction<li>What are the compant procedures in the event of machinery or equipment malfunction?</li></ol>"
+			},
+			{
+				"key":"B8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative works with other members of the team to ensure the picking line moves smoothly",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative identifies non-conforming materials in the picking zone and takes relevant action in accordance with company procedures",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative identifies key risks with picking line activities<li>What are the key risks to be considered when working on a picking line?</li></ol>"
+			},
+			{
+				"key":"B10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative operates plant and equipment within own area of responsibility",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative follows emergency procedures<li>What actions should you follow if someone is injured whilst using the picking line?</li></ol>"
+			},
+			{
+				"key":"B11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows company procedures in the event of machinery or equipment malfunction",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative conforms with safe working methods/procedures for picking line activities ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative identifies key risks with picking line activities",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B14",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows emergency procedures",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B15",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative performs correct shut down procedure prior to leaving the picking line (during breaks/end of work shift, etc)",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B16",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows correct hygiene procedures before eating/drinking",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		}
+	]
+}

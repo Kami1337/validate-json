@@ -1,0 +1,257 @@
+{
+    "name":"V-001b: Operative Health and Safety",
+	"sections": [
+		{
+		"key":"A-General-Health-and-Safety",
+		"name":"A - General Health and Safety",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative  wears all of the protective clothing appropriate to the task and conditions",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports all accidents, incidents of damage and/or near misses to the relevant person as soon as possible",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports all accidents, incidents of damage and/or near misses to the relevant person as soon as possible<li>What is the organisational procedure for reporting accidents and/or near misses?</li><li>What is the organisational procedure for reporting damage?</li><li>What do you do if a vehicle undertakes you on the pavement/grass verge and nearly hits a colleague?</li></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative always washes hands before eating or drinking",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports any new or specific hazards prior to commencing work  or arising during work ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports any new or specific hazards prior to commencing work or arising during work<li>What is the organisational procedure for reporting new hazards arising from work?</li><li>When are new hazards likely to arise in your work?</li></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Slips,-Trips-and-Falls",
+		"name":"B - Slips, Trips and Falls",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative avoids or controls adverse impact of  kerbs, steps, potholes, uneven paving or other trip hazards",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative conducts visual checks prior to walking forwards where view of ground maybe lost",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative adapts work methods to suit weather conditions and if they present unacceptable hazard  notifies line manager ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative adapts work methods to suit weather conditions and if they present unacceptable hazard notifies line manager<li>What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot?</li></ol>"
+			}
+		]
+		},
+		{
+		"key":"C-Equipment-Operation",
+		"name":"C - Equipment Operation",
+		"competencies": [
+			
+			{
+				"key":"C1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative works in accordance with organisational or manufacturer  operating procedures, method statements or related guidance  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows organisational procedures on the use of personal music equipment and their ear pieces ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative undertakes all work and loading operations with due regard to the safety and proximity of the public, customers or other third parties ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative undertakes all work and loading operations with due regard to the safety and proximity of the public, customers or other third parties: <li>What is the organisational procedure for ensuring that members of the public or others are kept away from vehicles and machinery?</li></ol>"
+			},
+			{
+				"key":"C4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative undertakes a check to ensure that containers they intend to empty do not contain people, animals or other unauthorised items ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative undertakes a check to ensure that containers they intend to empty do not contain people, animals or other unauthorised items: <li>What is the company procedure for checking large containers do not contain children, adults or animals?</li></ol>"
+			}
+		]
+		},
+		{
+		"key":"D-Working-in-public-areas",
+		"name":"D - Working in public areas",
+		"competencies": [
+			
+			{
+				"key":"D1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not endanger themselves or others when wheeling or carrying waste to the collection vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative returns containers to the collection point and avoids  creating obstructions",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative cleans up any waste spillages immediately, avoiding direct contact and using equipment provided",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative cleans up waste spillages immediately, avoiding direct contact and using equipment provided: <li>What is the purpose of taking immediate action?</li><li>Why should contact with waste be avoided?</li><li>What equipment could be used to clean up the waste?</li></ol>"
+			},
+			{
+				"key":"D4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative closes doors and gates after use where applicable ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative complies with all site rules when collecting from sites such as: hospitals, schools, factories, camping and caravan sites",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		}
+	]
+}

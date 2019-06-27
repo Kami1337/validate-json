@@ -1,0 +1,684 @@
+{
+	"name":"V-035: Healthcare Waste Transfer Receipt Operations",
+	"sections": [
+		{
+		"key":"A-General",
+		"name":"A - General",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative receives customers/drivers in a polite and professional manner",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative inspects paperwork and checks waste received against documentation provided",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative inspects waste load bought on site to verify that the contents comply with permit requirements",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative takes note of any additional information provided from the driver/operative",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative understands use of the tare weight to make weight adjustments when calculating the actual weight of waste in a container<li>What is the tare weight of a container?</li><li>How do you calculate the actual weight of the container contents?</li></ol>"
+			},
+			{
+				"key":"A5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures site access/egress is clear and unobstructed",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative monitors off-loading vehicles to ensure operations are carried out using a safe system of work",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative assists and/or directs customers to place materials in correct containers (loose loads only)",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative implements  use of the tare weight to make weight adjustments when calculating the actual weight of waste in a container",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative weighs each container/wheeled bin on the weigh-bridge and records the data and waste type",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative inputs required information into site record systems",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Identification-of-Clinical/Healthcare-Waste",
+		"name":"B - Identification of Clinical/Healthcare Waste",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative identifies the main types of clinical/healthcare waste",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative demonstrates caution and care handling clinical/healthcare wastes",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative correctly identifies incorrectly packaged clinical/healthcare wastes<li>What is the main difference between infectious clinical waste and offensive waste?</li><li>What type of sack should be used for the disposal of offensive waste?</li><li>What type of sack/container should be used for the disposal of clinical infectious wastes?</li></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative identifies the different types of clinical/healthcare waste using the standard colour-coding containment system",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative correctly segregates different types of clinical/healthcare waste<li>Why are different types of clinical waste segregated at source (or use comparative examples)?</li><li>What are the different types of treatment/disposal used for the types of waste your company produces?</li><li>Can you tell me what happens to the waste when it leaves this site?</li></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative correctly segregates clinical waste containers according to type and treatment required",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative has obtained or received suitable preventative vaccinations for specified infectious diseases<li>Why are vaccinations important?</li><li>What infectious diseases are you at risk of contracting?</li></ol>"
+			},
+			{
+				"key":"B5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative matches different types of clinical/healthcare waste to the relevant EWC documentation code",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative correctly identifies incorrectly packaged clinical/healthcare wastes",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative correctly segregates different types of clinical/healthcare waste ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"C-Clinical/Healthcare-Waste-Handling-Procedures",
+		"name":"C - Clinical/Healthcare Waste Handling Procedures",
+		"competencies": [
+			
+			{
+				"key":"C1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative has obtained or received suitable preventative vaccinations for specified infectious diseases",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative wears the correct personal protective clothing when handling clinical/healthcare wastes",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks that sacks are correctly sealed before handling or transfer and takes remedial action where necessary",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative carries/lifts loose sacks by the neck to minimise the potential for cross-contamination or injury",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative implements internal procedure for reporting non-conformances<li>What action would you take if you found an unlabelled yellow container and you were unsure about the contents?</li><li>How do you identify where clinical waste bags have come from?</li></ol>"
+			},
+			{
+				"key":"C5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative demonstrates procedure for dealing with leaking containers containing clinical waste",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative can state internal procedure for reporting non-conformances<li>What action would you take if you found a leaking container containing infectious clinical waste?</li><li>What would you do if you found a lack bag labelled as ‘clinical waste’?</li><li>What is the different between a non-conformance and an accident?</li></ol>"
+			},
+			{
+				"key":"C6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative picks up sharps or rigid containers using handles provided and carrier out a visual inspection for correct closure",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative selects the correct bulk container for different types of clinical/healthcare waste",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative ensures any cut or abrasion is suitably cleaned and covered before starting the handling process<li>If you had a cut on your hand, what action would you take before starting your collections?</li><li>What are the potential risks of not covering an open wound when dealing with soiled/infectious materials?</li></ol>"
+			},
+			{
+				"key":"C8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative seeks assistance if unsure about the type of clinical/healthcare waste container or disposal route",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports any injury, accident or near miss as per company procedure<li>What would you do if you injured your leg when moving some rigid waste containers?</li><li>What is the company procedure for reporting accidents?</li></ol>"
+			},
+			{
+				"key":"C9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative  implements internal procedure for reporting non-conformances",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows correct hand-washing or decontamination procedure before entering rest areas, eating, drinking etc",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures any cut or abrasion is suitably cleaned and covered before starting the handling process",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports any injury, accident or near miss as per company procedure",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative correctly removes personal protective clothing at the workplace to be laundered or disposed of at required intervals",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C14",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative correctly completes Duty of Care documentation prior to waste leaving the site",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"D-Spillage-Procedure",
+		"name":"D - Spillage Procedure",
+		"competencies": [
+			
+			{
+				"key":"D1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative locates spillage kit",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative initiates and completes the appropriate spillage procedure in the event of a container leaking or splitting",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative selects the correct items in the kit to safely clean up spillage",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports spillage (and action taken) to supervisor and assists in completing a non-conformance report<li>What is the company procedure for reporting spillages?</li><li>Why is it important to investigate the causes of a clinical waste spillage?</li></ol>"
+			},
+			{
+				"key":"D4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative selects or uses additional personal protective equipment required to prevent cross-contamination",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative correctly identifies the range of sharp implements that may be present in the clinical/healthcare waste streams<li>What types of sharps waste would you expect to see in a typical clinical waste container?</li><li>Are sharps generally considered to be infectious or non-infectious?</li><li>How would you deal with a needle/syringe visible in a clinical waste sack?</li></ol>"
+			},
+			{
+				"key":"D5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative carries out the spillage procedure in the event of a liquid or solid waste spillage",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative contains the spillage for safe onward handling and transfer",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports spillage (and action taken) to supervisor and assists in completing a non-conformance report",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"E-Sharps-Handling",
+		"name":"E - Sharps Handling",
+		"competencies": [
+			
+			{
+				"key":"E1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative  correctly identifies the range  of sharp implements that may be present in the clinical/healthcare waste streams",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative selects the correct equipment to safely handle loose sharps",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative implements the local procedure for dealing with a needle-stick injury<li>Describe how you would treat yourself or a colleague who had received a needle-stick injury.</ol>"
+			},
+			{
+				"key":"E3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative selects and uses additional personal protective equipment required to prevent cross-contamination or needle-stick injury",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative implements the procedure for completing an accident form in the event of sharps injury<li>Who would you report a needle-stick injury to in the first instance?</li><li>Where is the company accident book located?</li><li>Who is responsible for co-ordinating the reporting of accidents and incidents in your company?</li></ol>"
+			},
+			{
+				"key":"E4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative uses correct range of colour-coded containers to correctly contain contaminated sharps",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports sharps injury/non-conformance (and action taken) to supervisor and assists in completing relevant reports<li>What information do you need to provide to your supervisor for the report?</li><li>How do you think needle-stick injuries can be avoided in the future?</li></ol>"
+			},
+			{
+				"key":"E5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative correctly contains sharps for safe onward handling and transfer",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative implements the local procedure for dealing with a needle-stick injury",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative  implements the procedure for completing an accident form in the event of sharps injury",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports sharps injury/non-conformance (and action taken) to supervisor and assists in completing relevant reports",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		}
+	]
+}

@@ -1,0 +1,754 @@
+{
+	"name":"V-024: Hiab Lorry Mounted Crane Operations",
+	"sections": [
+		{
+		"key":"A-Driver-and-Vehicle",
+		"name":"A - Driver and Vehicle",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver conducts daily checks listed in Defect Book in a well-lit area away from main traffic routes  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks First Aid box including eye wash to ensure it is complete",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Any defects identified and reported to appropriate personnel<li>What is the procedure for reporting defects to appropriate personnel?</li></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks the external cleanliness of the vehicle including lights, number plates , indicators and windows",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that the cab is clean and free from unauthorised items",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Any defects identified and  reported to appropriate personnel",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures that only authorised passengers ride in the vehicle and that seat belts are worn at required times<li>Why are unauthorised passengers not allowed to ride in the vehicle?</li></ol>"
+			},
+			{
+				"key":"A6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver wears high-visibility clothing provided by the company together with any other relevant personal protective equipment ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures that employees do not ride on the back or any other part of the vehicle<li>Why is it important that employees do not ride on the back or any other part of the vehicle?</li></ol>"
+			},
+			{
+				"key":"A7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver has required documentation for their load",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that only authorised passengers ride in the vehicle and that seat belts are worn at required times",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that employees do not ride on the back or any other part of the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A10   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures the safety self, the public and other road users when stopping, starting and positioning the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver check that the vehicle is loaded safely with no over-loading or overhanging items<li>Why is it necessary to remove over-hanging items?</li><li>Why is it necessary to check the vehicle is not over-loaded?</li></ol>"
+			},
+			{
+				"key":"A11   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver operates vehicle safely: •following public highway traffic convention•with due consideration to others",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A12   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that no loading takes place while the vehicle is in motion",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A13   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver check that the vehicle is loaded safely with no over-loading or overhanging items",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A14   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Reversing operations are conducted safely following company procedure (or as detailed in WAP9)",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Crane-Operation-Pre-lift",
+		"name":"B - Crane Operation – Pre-lift",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures there are no overhead electric cables",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that there are no unauthorised persons in the working area",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that slings and lifting chains are suitable, firm and will accept the load",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that slings and lifting chains are in good condition",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver follows company procedure if chains are not correctly labelled or do not have a current LOLER certificate<li>What is the company procedure for informing your supervisor if chains are not correctly labelled or do not have a current LOLER certificate?</li></ol>"
+			},
+			{
+				"key":"B5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that any slings or chains used are rated higher than the load to be lifted",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that all slings and chains are labelled and have a current LOLER (Lifting Operations and Lifting Equipment Regulations) test certificate",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver follows company procedure if chains are not correctly labelled or do not have a current LOLER certificate",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that the safe load indicator is working correctly",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver maintains three points of contact with the vehicle if climbing onto the crane’s operating seat",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver deploys the stabiliser legs and ensures the vehicle is level before commencing any crane operation",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver carries out a test lift if unsure about the weight of the load to be lifted",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver does not operate the crane over the cab of the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"C-Crane-Operation-Lift-and-Post-lift",
+		"name":"C - Crane Operation – Lift and Post-lift",
+		"competencies": [
+			
+			{
+				"key":"C1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that the load is correctly secured on the vehicle ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that people are kept away from the area where the load will be deposited ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that no one walks under the suspended load",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that the vehicle bed is clean after unloading",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that all lashings and chocks are stowed correctly",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver follows company procedure if the crane or stabiliser legs will not go into the travel position and does not attempt to move the vehicle<li>What is the company procedure for informing your supervisor if the crane or stabiliser legs will not go into the travel position?</li></ol>"
+			},
+			{
+				"key":"C6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver stows stabiliser legs ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver returns the crane to the correct position",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver follows company procedure if the crane or stabiliser legs will not go into the travel position and does not attempt to move the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver operates within the agreed clearances for live electrical cables depending on voltage<li>How do you establish the safe clearance height for electrical cable?</li></ol>"
+			}
+		]
+		},
+		{
+		"key":"D-Overhead-Cables",
+		"name":"D - Overhead Cables",
+		"competencies": [
+			
+			{
+				"key":"D1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks for overhead electrical cables",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver remains in cab if vehicle is touching live cables or cable is arcing to vehicle<li>What is the company procedure if vehicle is touching live cables or cable is arcing to vehicle?</li></ol>"
+			},
+			{
+				"key":"D2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that a delivered container and the type of vehicle servicing the container will not get entangled with overhead cables",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver follows company procedure to notify regional electricity provider or customer where applicable: <li>What is the company procedure for notifying the regional electricity provider and customer?</li></ol>"
+			},
+			{
+				"key":"D3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver operates within the agreed clearances for live electrical cables depending on voltage ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver discourages people from approaching the vehicle<li>What is the company procedure for discouraging people from approaching the vehicle?</li></ol>"
+			},
+			{
+				"key":"D4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver remains in cab if vehicle is touching live cables or cable is arcing to vehicle ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver leaves the cab only when the cables have been isolated<li>What is the company procedure for leaving the cab?</li></ol>"
+			},
+			{
+				"key":"D5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver follows company procedure to notify regional electricity provider or customer where applicable ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver jumps as far from the cab as possible in an emergency when overhead cables are still live<li>What is the company procedure for jumping clear of the cab when overhead cables are still live?</li></ol>"
+			},
+			{
+				"key":"D6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver discourages people from approaching the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver does not approach the vehicle until the electricity provider has confirmed that the cable is isolated<li>What is the company procedure for confirming that the electricity provider has isolated the cable?</li></ol>"
+			},
+			{
+				"key":"D7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver leaves the cab only when the cables have been isolated",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver jumps as far from the cab as possible in an emergency when overhead cables are still live",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver does not approach the vehicle until the electricity provider has confirmed that the cable is isolated",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver is aware of and complies with all site safety rules when on customer’s premises or tipping sites<li>What are the major safety rules that must be complied with on customer’s premises?</li><li>What are the major safety rules that must be complied with on tipping sites?</li></ol>"
+			}
+		]
+		},
+		{
+		"key":"E-Loading-and-Unloading",
+		"name":"E - Loading and Unloading",
+		"competencies": [
+			
+			{
+				"key":"E1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"The driver is the only person to operate the crane",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that the vehicle is unloaded safely",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver is aware of and complies with all site safety rules when on customer’s premises or tipping sites",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver does not stand, or allow others to stand, or work under unpropped bodies or suspended loads",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that the site is closed or the area cordoned off and all persons clear of the area before loading or unloading",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver identifies when a load has become unstable or dangerous or where unforeseen spillages occur and stops activity",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver assesses and takes safe action to readjust the load",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver is aware of the specific security requirements for the transport of dangerous goods including high consequence dangerous goods<li>What is the company procedure to be followed when carrying dangerous goods?</li> <li>What is the appropriate training regarding the transport of dangerous goods?</li><li>Which goods are regarded as high consequence dangerous goods?</li></ol>"
+			},
+			{
+				"key":"E8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver follows company procedure when load cannot be made safe and calls for assistance",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver is aware of the specific security requirements regarding transportable pressure equipment<li>What is the company procedure to be followed regarding transportable pressure equipment?</li></ol>"
+			}
+		]
+		}
+	]
+}

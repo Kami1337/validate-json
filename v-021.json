@@ -1,0 +1,663 @@
+{
+	"name":"V-021: Graffiti Removal Operations",
+	"sections": [
+		{
+		"key":"A-Work-Equipment-and-Safety",
+		"name":"A - Work Equipment and Safety",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that they are aware of the training required to operate the specific equipment, use the prescribed chemicals and carry out removal techniques on the specific substrate to be treated ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+            },
+            {
+                "key":"A2",
+                "methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative obtains the equipment identified by the company for the specific graffiti removal process",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative obtains and understands the COSHH (control of substances hazardous to health) assessment for chemicals being used",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative obtains and checks the personal protective equipment specified for the specific graffiti removal process",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports any faults in equipment to supervisor<li>What is the company procedure for reporting faults in equipment to your supervisor?</li></ol>"
+			},
+			{
+				"key":"A5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks the condition of all pressure equipment being used including hoses, pumps, nozzles and  energy supply  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports any shortages in consumables and ancillary equipment to supervisor<li>What is the company procedure for reporting shortages in consumables and ancillary equipment to your supervisor?</li></ol>"
+			},
+			{
+				"key":"A6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that all required consumables and ancillary equipment are available in sufficient quantity",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports any faults in equipment to supervisor ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative contacts supervisor if they are unsure of processes to be carried out<li>What aspects of the graffiti removal process might you want to check with your supervisor?</li><li>What is the company procedure for contacting your supervisor if you are unsure of processes to be carried out?</li></ol>"
+			},
+			{
+				"key":"A8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports any shortages in consumables and ancillary equipment to supervisor",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative contacts supervisor if unsure of safety procedures to adopt<li>What aspects of safety during the graffiti removal process might you want to check with your supervisor?</li><li>What is the company procedure for contacting your supervisor if you are unsure of safety procedures?</li></ol>"
+			},
+			{
+				"key":"A9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that a full method statement is available for the specific graffiti removal process to be undertaken",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative contacts supervisor if they are unsure of processes to be carried out",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative contacts supervisor if unsure of safety procedures to adopt",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports all accidents, incidents and near misses to supervisor<li>What is the company procedure for reporting accidents, incidents and near misses to your supervisor?</li></ol>"
+			},
+			{
+				"key":"A12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative cleans  hands before eating, drinking, going to the toilet or smoking",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative always wears high visibility clothing in good condition and unaltered",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A14",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports all accidents, incidents and near misses to supervisor",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Graffiti-Removal",
+		"name":"B - Graffiti Removal",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative carries out a site assessment to identify any potential dangers of inhalation, ingestion or contact with eyes and skin",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative identifies and requests any additional personal protective equipment based on site inspection",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative carries out a site assessment to ensure equipment can be used",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative does nothing to endanger the public while carrying out graffiti removal operations<li>What is the company procedure for ensuring that the public are not endangered when carrying out graffiti removal operations?</li></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that there is adequate access and ventilation to carry out the specific graffiti removal technique",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative cordons off the work area to protect self and public during graffiti removal activities",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does nothing to endanger the public while carrying out graffiti removal operations",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that chemicals are in safe containers and ready for use ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that any pressure hoses, washers and poles (where required) are correctly fitted and safe to use ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that power supply (where required) is available and safe",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that all consumables and ancillary equipment are ready for use",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that all equipment, consumables and ancillary equipment do not pose a trip or falls threat to self and public  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks the condition of the substrate and carries out any preparation required prior to graffiti removal",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative protects any adjoining surfaces to the application area ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B14",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative cleans the substrate and carries out any preparatory treatments ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B15",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operator applies preventative application coatings as required following manufacturer’s instructions",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B16",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative applies the removal agent to the substrate using the correct applicator and following manufacturer’s instructions",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B17",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative applies the minimum removal agent at any one pass ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B18",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative applies the removal agent using the correct direction of movement",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B19",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative leaves removal agent on substrate for correct period of time ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports any failure to remove graffiti as specified by company procedure and awaits further instructions<li>What is the company procedure for reporting any failure to remove graffiti to your supervisor?</li></ol>"
+			},
+			{
+				"key":"B20",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative cleans substrate surface and applies further removal agent as required ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B21",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative inspects the substrate to ensure removal has been successful",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B22",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports any failure to remove graffiti as specified by company procedure and awaits further instructions",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B23",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative seals or protects the substrate surface after graffiti removal",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B24",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative cleans up any spillages or detritus caused by the graffiti removal ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B25",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative stores and labels all waste using correct containers",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B26",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that all waste is disposed of correctly",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B27",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative disconnects any equipment and returns it to operational use",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B28",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures equipment is cleaned and ready for use",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B29",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that all unused chemicals are safely stored in correct containers and do not leak",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B30",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative inspects work area and returns it to safe public use ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B31",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that all equipment, consumables and chemicals are kept secure or returned to store",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative confirms they have been trained to operate gully cleansing and tanker equipment<li>What is the correct training for mechanical road sweeping operations?</li></ol>"
+			},
+			{
+				"key":"B32",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that all graffiti removal processes take account of the environment  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		}
+	]
+}

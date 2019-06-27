@@ -1,0 +1,236 @@
+{
+	"name":"V-009: Reversing Operations",
+	"sections": [
+		{
+		"key":"A-Vehicle-Checks",
+		"name":"A - Vehicle Checks",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that the vehicle’s audible reversing alarm is working at full volume",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that the reversing lights are in full working order",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that all mirrors are clean, properly adjusted and not cracked or broken",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>If the vehicle is over 3.5 tonnes the driver checks that any reversing camera system is in full working order: <li>How do you operate the camera reversing system in vehicles over 3.5 tonnes?</li><li>What safety checks do you carry out on camera reversing systems in vehicles over 3.5 tonnes?</li></ol>"
+			},
+			{
+				"key":"A4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"If the vehicle is over 3.5 tonnes the driver checks that any reversing camera system is in full working order",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver reports any defects immediately to supervisor and awaits further instructions: <li>What is the procedure for notifying your supervisor of any defects on the vehicle?</li></ol>"
+			},
+			{
+				"key":"A5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver reports any defects immediately to supervisor and awaits further instructions  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Pre-Reversing-Checks",
+		"name":"B - Pre-Reversing Checks",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver assesses the area to be reversed into and identifies any pedestrian movements and obstructions",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver contacts the supervisor where pedestrians or parked vehicles prevent access<li>What is the procedure for notifying your supervisor when pedestrian movement or obstructions prevent reversing?</li></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver contacts supervisor where pedestrians or parked vehicles prevent access",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver avoids confrontation with members of the public when planning for reversing operations<li>What are your company’s suggested methods of avoiding conflict with the public when assessing if it is safe to reverse?</li></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver avoids confrontation with members of the public when planning for reversing operations",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that, if necessary, trained reversing assistants are available and that they do not enter the crush zone and that their safety will not be at risk when reversing  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures all other crew members are in the cab or outside the crush zone",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"C-Reversing-Procedures",
+		"name":"C - Reversing Procedures",
+		"competencies": [
+			
+			{
+				"key":"C1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver completes the full reversing procedure before any loading begins",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver reverses slowly and with constant vigilance using the rear view camera and mirrors",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver keeps the reversing assistant in clear view at all times.  Driver stops immediately if sight is lost to re-establish the position of the assistant before continuing with reversing",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver obeys the site rules on reversing procedures when collecting or tipping off at third party or own company premises<li>What are the major safety rules that must be complied with when reversing during collection or tipping operations on third party premises?</li><li>What are your company’s safety rules on reversing?</li></ol>"
+			},
+			{
+				"key":"C4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver obeys the site rules on reversing procedures when collecting or tipping off at third party or own company premises",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver uses the creep and peep method of reversing when operating a one-man operated vehicle making sure that they are aware of their surroundings<li>What is the creep and peep method of reversing?</li><li>How do you check the area surrounding the reversing area?</li></ol>"
+			},
+			{
+				"key":"C5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver uses the creep and peep method of reversing when operating a one-man operated vehicle making sure that they are aware of their surroundings",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		}
+	]
+}

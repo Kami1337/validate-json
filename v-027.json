@@ -1,0 +1,859 @@
+{
+	"name":"V-027: Bulk Articulated Trailer Operations",
+	"sections": [
+		{
+		"key":"A-Driver-and-Vehicle",
+		"name":"A - Driver and Vehicle",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver conducts daily checks listed in Defect Book in a well-lit area away from main traffic routes  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks First Aid box including eye wash to ensure it is complete",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Any defects identified and reported to appropriate personnel<li>What is the procedure for reporting defects to appropriate personnel?</li></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks the external cleanliness of the vehicle including lights, number plates , indicators and windows",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that the cab is clean and free from unauthorised items",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Any defects identified and  reported to appropriate personnel",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures that only authorised passengers ride in the vehicle and that seat belts are worn at required times<li>Why are unauthorised passengers not allowed to ride in the vehicle?</li></ol>"
+			},
+			{
+				"key":"A6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver wears high-visibility clothing provided by the company together with any other relevant personal protective equipment ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures that employees do not ride on the back or any other part of the vehicle<li>Why is it important that employees do not ride on the back or any other part of the vehicle?</li></ol>"
+			},
+			{
+				"key":"A7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver has required documentation for their load",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that only authorised passengers ride in the vehicle and that seat belts are worn at required times",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that employees do not ride on the back or any other part of the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A10   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures the safety self, the public and other road users when stopping, starting and positioning the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver check that the vehicle is loaded safely with no over-loading or overhanging items<li>Why is it necessary to remove over-hanging items?</li><li>Why is it necessary to check the vehicle is not over-loaded?</li></ol>"
+			},
+			{
+				"key":"A11   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver operates vehicle safely: •following public highway traffic convention•with due consideration to others",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A12   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that no loading takes place while the vehicle is in motion",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver is aware of and has undertaken training in the operation of bulk articulated trailers<li>What is the correct training for the operation of bulk ejector trailers?</li></ol>"
+			},
+			{
+				"key":"A13   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver check that the vehicle is loaded safely with no over-loading or overhanging items",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A14   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Reversing operations are conducted safely following company procedure (or as detailed in WAP9)",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver complies with all site safety rules when on customer’s premises or tipping sites<li>What are the major safety rules that must be complied with on customer’s premises?</li><li>What are the major safety rules that must be complied with on tipping sites?</li></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Disposal",
+		"name":"B - Disposal",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver is aware of and has undertaken training in the operation of bulk articulated trailers",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that no unauthorised person operates the bulk articulated trailer",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver complies with all site safety rules when on customer’s premises or tipping sites",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver takes great care when reversing to a tip edge to prevent the vehicle from going over the edge",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver uses secure lockable steps, an access platform or a fall-arrest system when trimming the load is not possible from ground level<li>Which types of equipment must be used if you cannot trim the load from ground level?</li></ol>"
+			}
+		]
+		},
+		{
+		"key":"C-Sheeting-and-Un-sheeting:-Automatic-Sheeting",
+		"name":"C - Sheeting and Un-sheeting: Automatic Sheeting",
+		"competencies": [
+			
+			{
+				"key":"C1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks for any overhanging, loose or trailing contents or any material that could prevent the use of the auto-sheeting system",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures that correct protection procedures are followed when working from height<li>What is the company procedure for protecting yourself when working from height?</li></ol>"
+			},
+			{
+				"key":"C2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver trims the load from ground level to allow auto-sheeting",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver informs supervisor if unable to work safely from height<li>What is the company procedure for informing supervisor if you are unable to work from height?</li></ol>"
+			},
+			{
+				"key":"C3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver uses secure lockable steps, an access platform or a fall-arrest system when trimming the load is not possible from ground level ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures that assistance is available when using a fall-arrest system to prevent suspension trauma<li>Why is it important to ensure someone is with you when using a fall-arrest system?</li></ol>"
+			},
+			{
+				"key":"C4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that correct protection procedures are followed when working from height",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures safety harness is correctly adjusted before use<li>How do you adjust a safety harness before use?</li></ol>"
+			},
+			{
+				"key":"C5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver informs supervisor if unable to work safely from height",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver follows company procedure for the checking and storage of safety harnesses<li>What is the company procedure for checking and storing safety harnesses?</li></ol>"
+			},
+			{
+				"key":"C6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that assistance is available when using a fall-arrest system to prevent suspension trauma",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver reports any problems over the condition and use of the safety harness to supervisor<li>What is the company procedure for reporting any problems over the condition or use of the safety harness to your supervisor?</li></ol>"
+			},
+			{
+				"key":"C7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver reports inoperable auto-sheet to supervisor at once",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver reports any problems over the condition and use of the safety harness to supervisor<li>What is the company procedure for reporting any problems over the condition or use of the safety harness to your supervisor?</li> </ol>"
+			}
+		]
+		},
+		{
+		"key":"D-Safety-Harnesses",
+		"name":"D - Safety Harnesses",
+		"competencies": [
+			
+			{
+				"key":"D1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures safety harness is correctly adjusted before use ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures that the safety harness is never used when alone<li>Why is it important never to use a safety harness if working alone?</li></ol>"
+			},
+			{
+				"key":"D2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver follows company procedure for the checking and storage of safety harnesses",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver reports any problems over the condition and use of the safety harness to supervisor",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that the safety harness is never used when alone",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"E-Un-coupling-Procedure",
+		"name":"E - Un-coupling Procedure",
+		"competencies": [
+			
+			{
+				"key":"E1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver parks on firm and level ground",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver applies the vehicle parking brake ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver applies trailer hand brake ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver winds down legs using stow handle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver switches off any air taps",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver disconnects air/electrical lines in a logical sequence ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver stows air/electrical lines safely and securely ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver releases trailer locking device ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver pulls forward slowly and checks that the trailer releases correctly and safely",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver parks alongside the trailer ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that the hand brake is still on",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver removes the number plate ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"F-Coupling-Procedure",
+		"name":"F - Coupling Procedure",
+		"competencies": [
+			
+			{
+				"key":"F1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver takes up a coupling position just short of the trailer",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that the height of the trailer and the height of the vehicle are compatible ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that the trailer hand brake is on ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks the number plate, tyres and trailer body to ensure that it is legal to take on road",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver reverses under the trailer until connection is made",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver moves forward slightly to ensure connection is secure",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver applies the vehicle parking brake ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver secures 5th wheel or coupling locking device ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver connects air and electrical lines in a logical sequence and switches on taps if fitted",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver disconnects the airlines immediately if the vehicle and trailer start to move forward",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver winds up legs using stow handle ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver fits number plate",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver releases hand brake ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F14",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures air pressure has built up",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F15",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks lights",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F16",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver carries out a rolling brake test",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F17",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver does not operate the trailer in shunt mode ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		}
+	]
+}

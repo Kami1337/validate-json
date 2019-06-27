@@ -1,0 +1,929 @@
+{
+	"name":"V-001a: Health and Safety",
+	"sections": [
+		{
+		"key":"A-General-Health-and-Safety",
+		"name":"A - General Health and Safety",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative always wears the protective clothing required for a given task and conditions",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports all accidents, incidents of damage and near misses to supervisor as soon as possible",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports all accidents, incidents of damage and near misses to supervisor as soon as possible<li>What is the company procedure for reporting accidents and near misses</li><li>What is the company procedure for reporting damage</li><li>What do you do if a vehicle undertakes you on the pavement/grass verge and nearly hits a colleague</li></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative always cleans hands before eating, drinking, going to the toilet or smoking",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports any new or specific hazards arising during work ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports any new or specific hazards arising during work<li>What is the company procedure for reporting new hazards arising from work</li><li>When are new hazards likely to arise in your work</li></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Equipment-Operation",
+		"name":"B - Equipment Operation",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative always works in accordance with any specific instructions contained within  standard operating procedures /work instructions  or related guidance  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows organisation procedures on the use of personal music equipment using ear pieces, mobile phones and other similar devices",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows correct procedures when operating equipment in compliance with the manufacturer’s operating instructions",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that members of the public are kept away from working vehicles/equipment and do not operate any controls or load any items into the vehicle/equipment",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative ensures that members of the public are kept away from working vehicles and do not operate any controls or load any items into the vehicle<li>What is the company procedure for ensuring that members of the public are kept away from vehicles and machinery</li></ol>"
+			},
+			{
+				"key":"B5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative conducts checks to ensure that when collecting  large commercial containers they do not contain any adults or children ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative conducts checks to ensure that when collecting large commercial containers they do not contain any adults or children<li>What is the company procedure for checking large containers do not contain adults or children</li></ol>"
+			}
+		]
+		},
+		{
+		"key":"C-Vehicle-Operation",
+		"name":"C - Vehicle Operation",
+		"competencies": [
+			
+			{
+				"key":"C1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative wears a seat belt when seated in a moving  vehicle ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not attempt to get in or out of any vehicle unless it is completely stationary",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative exercises care when climbing in and out of the vehicle by ensuring three points of contact are maintained and does not jump from or to the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative never attempts to load the vehicle whilst it is in motion",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative never attempts to  ride in, on the back or outside of any vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative assisting in reversing operations confirms they are trained before providing assistance",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative assisting in reversing operations confirms they are trained before providing assistance.Q. What training have you undertaken for reversing assistant, when did you do it</li></ol>"
+			},
+			{
+				"key":"C7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative always wears  high-visibility reflective clothing in good condition and unaltered ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative exercises care when crossing the road and when working around the vehicle to ensure safety of self and others when in traffic",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that the flashing beacon is switched on at all times during loading/disposal activities, and reports any defects to the driver immediately",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows loading instructions/sequence as detailed in round risk assessments",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that height  clearance is checked before raising top loads and side loads",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"D-Slips,-Trips-and-Falls",
+		"name":"D - Slips, Trips and Falls",
+		"competencies": [
+			
+			{
+				"key":"D1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative takes care to note kerbs, steps, potholes, uneven paving and other trip hazards",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative keeps ground in vision as far as is practicable and conducts checks where vision is lost before proceeding",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative takes extra care in wet and icy conditions ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative takes extra care in wet and icy conditionsQ. What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot</li></ol>"
+			},
+			{
+				"key":"D4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative always wears protective footwear issued by the company ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"E-Manual-Handling",
+		"name":"E - Manual Handling",
+		"competencies": [
+			
+			{
+				"key":"E1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative tests  the weight of item before lifting  and only lifts items within own capability ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative asks for assistance if the load is heavy or awkward",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative asks for assistance if load is heavy or awkward<li>Which types of load could require assistance when moving</li></ol>"
+			},
+			{
+				"key":"E3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative gets a firm grip on the load before lifting and ensures a firm footing",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative lifts with one foot in front of the other and with knees bent using leg muscles to achieve the lift",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative exercises care when moving loads which restrict sight of the ground, steps or obstructions in front",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative exercises care when manually handling items in wet and icy conditions ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative exercises care when manually handling items in wet and icy conditionsQ. What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot</li></ol>"
+			},
+			{
+				"key":"E7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative turns by moving the feet rather than twisting at the waist when carrying a load",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative lifts bagged waste by the top/neck and ensures load  is close to body",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures own safety during the movement of either the container or the waste",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative  follows site specific assessments  when making trade collections",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative  communicates any problems to the office",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"F-Hazardous-Substances",
+		"name":"F - Hazardous Substances",
+		"competencies": [
+			
+			{
+				"key":"F1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative makes every effort to minimise direct contact with waste by:•not transferring waste from a container or bin by hand other than recycling boxes or where permitted by company procedures•not trying to compress waste in a container by hand•not rummaging in containers and bins other than recycling boxes",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative seeks first aid assistance and reports the matter immediately to a supervisor if they believe they have come in contact with a hazardous substance ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative seeks first aid assistance and reports the matter immediately to a supervisor if they believe they have come in contact with a hazardous substance<li>What is the company procedure for reporting contact with hazardous substances</li></ol>"
+			},
+			{
+				"key":"F3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not sniff chemicals to determine their type",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative always uses the company issued hearing and eye protection if engaged in either tipping glass into the stillage or the hopper of a waste collection vehicle ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative always uses the company issued hearing and eye protection if engaged in either tipping glass into the stillage or the hopper of a waste collection vehicle<li>What hearing and eye protection is issued to you</li><li>When should you use hearing and eye protection equipment</li><li>When should hearing protection equipment be removed</li></ol>"
+			},
+			{
+				"key":"F5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not wear the company hearing protection equipment when crossing roads",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"F6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports contamination with unknown liquids to the office",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports contamination with unknown liquids to the office<li>What is the reason for reporting liquid contamination to the office</li></ol>"
+			}
+		]
+		},
+		{
+		"key":"G-Sharps-and-Discarded-Hypodermic-Needles",
+		"name":"G - Sharps and Discarded Hypodermic Needles",
+		"competencies": [
+			
+			{
+				"key":"G1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative wears all items of general personal protective equipment (including trousers and gloves) and follows the company procedures for handling hazardous substances ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"G2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative always carries bagged waste by the neck of the sack",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"G3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not remove by hand, or otherwise directly handle, the contents of litter bins, wheeled bins or waste containers other than recycling boxes",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"G4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports incidents of discarded needles as specified by company procedure",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports incidents of discarded needles as specified by company procedure<li>What is the company procedure for reporting discarded needles</li></ol>"
+			},
+			{
+				"key":"G5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative avoids the direct handling of sharps and needles wherever possible but where handling discarded needles cannot be avoided, the operative uses the handling tool and wears disposable gloves contained in the Sharps Kit to remove needles and place them in the approved sharps container provided",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative avoids the direct handling of sharps and needles wherever possible but where handling discarded needles cannot be avoided the operative uses the handling tool and wears disposable gloves contained in the Sharps Kit to remove needles and place them in the approved sharps container provided<li>How would you go about handling discarded needles</li><li>What equipment must be used when handling discarded needles</li><li>What are the dangers to yourself and others when handling discarded needles</li></ol>"
+			},
+			{
+				"key":"G6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative disposes of sharps containers when filled to manufacturers’ line following company procedure ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative disposes of sharps containers when filled to manufacturers’ line following company procedure: <li>What is the company policy on disposal of sharps containers</li><li>When must disposal of sharps containers be carried out</li></ol>"
+			},
+			{
+				"key":"G7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative knows company procedure for personnel sustaining a needle stick injury",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative knows company procedure for personnel sustaining a needle stick injury: <li>What is the company procedure for treatment of needle stick injuries</li></ol>"
+			}
+		]
+		},
+		{
+		"key":"H-Public-Safety",
+		"name":"H - Public Safety",
+		"competencies": [
+			
+			{
+				"key":"H1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not endanger other road users or members of the public when wheeling or carrying waste to the collection vehicle ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"H2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative cleans up any spillages immediately, avoiding direct contact with the refuse by using brushes and shovels where provided",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"H3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative closes doors and gates after use where applicable",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"H4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative complies with all site rules when collecting from locations such as hospitals, schools, factories, camping and caravan sites",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"H5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not attach any objects to the vehicle or place such items behind the vehicle cab window",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"H6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative returns bins and boxes to the original site location to avoid creating an obstruction",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"H7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative avoids any conflict or argument with the general public and withdraws politely from a difficult situation and informs supervisor immediately",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative manages conflict and confrontation with members of public as trained<li>How would you manage an aggressive/ confrontational member of the public</li></ol>"
+			}
+		]
+		},
+		{
+		"key":"I-Disposal-of-Loads",
+		"name":"I - Disposal of Loads",
+		"competencies": [
+			
+			{
+				"key":"I1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows instructions and individual disposal site rules when discharging loads at authorised sites",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"I2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative never stands or walks under a raised tailgate or body",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"J-Vehicle-Fire-Emergency-Procedure",
+		"name":"J - Vehicle Fire Emergency Procedure",
+		"competencies": [
+			
+			{
+				"key":"J1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows company procedure in the event of a fire in the cab or within the load",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative follows company procedure in the event of a fire in the cab or within the load<li>What are your instructions in the event of a fire in the vehicle cab</li></ol>"
+			},
+			{
+				"key":"J2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative may use cab fire extinguisher if properly trained and avoiding risk to self and others",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative may use cab fire extinguisher if properly trained and avoiding risk to self and others<li>What is the company procedure on who can use cab fire extinguishers</li><li>When can cab fire extinguishers be used</li></ol>"
+			},
+			{
+				"key":"J3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative never attempts to fight a fire within the load or under the bonnet (engine fire)",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative never attempts to fight a fire within the load or under the bonnet (engine fire)<li>What is the company procedure for the treatment of under bonnet fires</li></ol>"
+			},
+			{
+				"key":"J4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative notifies supervisor of a fire at earliest opportunity",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative notifies supervisor at earliest opportunity<li>What is the company procedure for reporting vehicle fire emergencies</li></ol>"
+			}
+		]
+		}
+	]
+}

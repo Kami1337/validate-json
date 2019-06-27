@@ -1,0 +1,509 @@
+{
+	"name":"V-012: Front End Loader Operations",
+	"sections": [
+		{
+		"key":"A-Driver-and-Vehicle",
+		"name":"A - Driver and Vehicle",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver conducts daily checks listed in Defect Book in a well-lit area away from main traffic routes  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks First Aid box including eye wash to ensure it is complete",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks the external cleanliness of the vehicle including lights, number plates , indicators and windows",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Any defects identified and reported to appropriate personnel<li>What is the procedure for reporting defects to appropriate personnel?</li></ol>"
+			},
+			{
+				"key":"A4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that the cab is clean and free from unauthorised items",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Any defects identified and  reported to appropriate personnel",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver wears high-visibility clothing provided by the company together with any other relevant personal protective equipment ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures that only authorised passengers ride in the vehicle and that seat belts are worn at required times<li>Why are unauthorised passengers not allowed to ride in the vehicle?</li></ol>"
+			},
+			{
+				"key":"A7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver has required documentation for their load",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures that employees do not ride on the back or any other part of the vehicle<li>Why is it important that employees do not ride on the back or any other part of the vehicle?</li></ol>"
+			},
+			{
+				"key":"A8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that only authorised passengers ride in the vehicle and that seat belts are worn at required times",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that employees do not ride on the back or any other part of the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A10   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures the safety self, the public and other road users when stopping, starting and positioning the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A11   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver operates vehicle safely: •following public highway traffic convention•with due consideration to others",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver check that the vehicle is loaded safely with no over-loading or overhanging items<li>Why is it necessary to remove over-hanging items?</li><li>Why is it necessary to check the vehicle is not over-loaded?</li></ol>"
+			},
+			{
+				"key":"A12   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that no loading takes place while the vehicle is in motion",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A13   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver check that the vehicle is loaded safely with no over-loading or overhanging items",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A14   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Reversing operations are conducted safely following company procedure (or as detailed in WAP9)",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A15   ",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that the vehicle is not driven with the loading arms raised in the air",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Front-End-Loading",
+		"name":"B - Front End Loading",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that the vehicle is not overloaded",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that there are no overhanging items",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that the load is evenly distributed",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver carries out a physical inspection of the waste at the top of the container to ensure that the waste is as described",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver reports to supervisor if inspection could endanger own safety<li>Under what circumstances would it be unsafe to inspect the waste on the top of the container?</li><li>What is the company procedure for informing your supervisor when it is unsafe to inspect the waste on the top of the container?</li></ol>"
+			},
+			{
+				"key":"B5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver checks that there are no persons in the container",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver reports to supervisor if inspection could endanger own safety",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver is aware of and complies with the safety rules on customer’s premises and on tipping sites: <li>What are the major safety rules that must be complied with on customer’s premises?</li><li>What are the major safety rules that must be complied with on tipping sites?</li></ol>"
+			},
+			{
+				"key":"B7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures only authorised persons operate the lifting equipment",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver ensures that crew members comply with the safety rules on tipping sites: <li>How do you ensure that the crew know the safety rules and how do you check they comply with them?</li></ol>"
+			},
+			{
+				"key":"B8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver is aware of and complies with all site safety rules when on customer’s premises or tipping sites  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that crew members comply with the safety rules on tipping sites",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver reverses with care to prevent the vehicle from going over the edge",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver does not allow anyone to work under un-propped bodies",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver uses the correct work at height equipment when accessing the top of the vehicle to clear waste<li>What is the correct equipment to use when working at height when accessing the top of the vehicle to clear waste?</li></ol>"
+			},
+			{
+				"key":"B12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver does not allow anyone to climb into the hopper",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver provides supervisor with details of location of vehicle before accessing the top of the vehicle<li>What are the company procedures for notifying your supervisor of location of vehicle before accessing the top of the vehicle?</li></ol>"
+			},
+			{
+				"key":"B13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver uses the correct work at height equipment when accessing the top of the vehicle to clear waste",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver accesses the canopy at the rear of the vehicle using the approved ladder that is securely fixed to the vehicle<li>What is the company procedure using and securing the correct ladder when accessing the canopy at the rear of the vehicle?</li></ol>"
+			},
+			{
+				"key":"B14",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver provides supervisor with details of the vehicle location before accessing the top of the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver contacts supervisor when correct ladder is not available and requests attendance of a vehicle fitter<li>What are the company procedures for notifying your supervisor when correct ladder is not available?</li></ol>"
+			},
+			{
+				"key":"B15",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver accesses the canopy at the rear of the vehicle using the approved ladder that is securely fixed to the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver contacts supervisor when a container has fallen from the forks into the hopper and does not move the vehicle<li>What are the company procedures for notifying your supervisor of containers which have fallen from the forks into the hopper?</li></ol>"
+			},
+			{
+				"key":"B16",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver contacts supervisor when correct ladder is not available and requests attendance of a vehicle fitter",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B17",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver contacts supervisor when a container has fallen from the forks into the hopper and does not move the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B18",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver gains access through the dedicated hatch to the blade for clearing using the approved ladder type, which is attached securely to the vehicle ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B19",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver defects any vehicle without a functioning working light",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B20",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that only one person works behind the blade at any one time and that the person working has possession of the ignition key",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		}
+	]
+}

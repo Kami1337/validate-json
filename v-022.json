@@ -1,0 +1,852 @@
+{
+	"name":"V-022: Gully Cleansing and Tanker Operations",
+	"sections": [
+		{
+		"key":"A-Work-Equipment",
+		"name":"A - Work Equipment",
+		"competencies": [
+			
+			{
+				"key":"A1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative confirms they have been trained to operate gully cleansing and tanker equipment",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports any damaged or defective items to supervisor and requests replacements<li>What is the company procedure for reporting damaged and defective working equipment to your supervisor?</li></ol>"
+			},
+			{
+				"key":"A2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative uses equipment issued by the company and does not use unauthorised tools",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports to supervisor if any equipment becomes damaged during the working day and puts it aside<li>What is the company procedure for reporting damage to tools to your supervisor?</li></ol>"
+			},
+			{
+				"key":"A3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks ancillary work equipment is in working order before starting work",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports any damaged or defective items to supervisor and requests replacements",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports to supervisor if any equipment becomes damaged during the working day and puts it aside ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative  wears the correct personal protection equipment supplied by the company at all times ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows company procedure regarding the cleaning  of equipment and disposal ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"A8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative follows company procedure regarding the disposal of waste liquids",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver reports defective tankers and does not attempt to use them<li>What is the company procedure for reporting defective tankers to your supervisor?</li></ol>"
+			},
+			{
+				"key":"A9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative always cleans hands before eating, drinking, smoking or going to the toilet",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"B-Vehicle",
+		"name":"B - Vehicle",
+		"competencies": [
+			
+			{
+				"key":"B1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver carries out detailed daily checks of the vehicle and the associated equipment including pressure relief valves, hoses, and vacuum and pressure gauges",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver reports defective tankers and does not attempt to use them",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver does not exceed safe working pressures when working with pressure vacuum tankers",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver remains close to a vehicle with a running engine when operating equipment",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative applies the brake, switches off the engine and locks the doors when vehicle is  unattended  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative avoids contact with moving or rotating parts",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative operates equipment from ground level",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative uses the grab handles and steps provided when mounting the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative only carries out any maintenance or repairs that they have been trained to perform<li>What is the correct training for the maintenance and repair of gully cleansing and tanker equipment?</li></ol>"
+			},
+			{
+				"key":"B9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative uses secure access equipment when access the top of the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative only carries out any maintenance or repairs that they have been authorised to perform<li>What is the company procedure for authorising maintenance and repair of gully cleansing and tanker equipment?</li></ol>"
+			},
+			{
+				"key":"B10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative returns to depot or workshop if secure access equipment is not available",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative only carries out any maintenance or repairs that they have been trained  to perform",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative does nothing to endanger the public while operating the vehicle and related equipment<li>What is the company procedure for ensuring that the public and other road users are not endangered when carrying out gully cleansing and tanker operations?</li></ol>"
+			},
+			{
+				"key":"B12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative only carries out any maintenance or repairs that they have been authorised to perform",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"B13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not ride on the back of work vehicle at any time",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"C-Public-Safety",
+		"name":"C - Public Safety",
+		"competencies": [
+			
+			{
+				"key":"C1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not  endanger the public while operating the vehicle and related equipment",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that the directional arrow at the rear of the vehicle is properly displayed when not moving ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that the flashing beacons are switched on when working ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that the parking brake is applied when working",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative avoids any conflict or argument with the general public and withdraws politely from a difficult situation and informs supervisor immediately<li>What is the company procedure for handling any potential conflict with the public when carrying out gully cleansing and tanker operations?</li></ol>"
+			},
+			{
+				"key":"C5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative protects public from open coverings with open drops by using hazard warning signs, barriers or cones ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures pipe joints are watertight to avoid exposing anyone to contaminated water or causing pollution to the environment ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative avoids any conflict or argument with the general public and withdraws politely from a difficult situation and informs supervisor immediately",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative routes hoses to cause the least hazard to others",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative uses ramps and warning signs when pipes cross any public road or walkway",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative frequently checks  pressure gauges during operations",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that the tank is at atmospheric pressure before unlatching doors and manhole clamps",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"C12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures that heat, sparks and flames are  kept from the proximity of the  tank unless it has been confirmed as gas-free",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Operative reports covers that cannot be removed and leaves them in place<li>What is the company procedure for reporting covers that cannot be moved to your supervisor?</li></ol>"
+			},
+			{
+				"key":"C13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not enter the tank for any reason",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"D-Gully-Cleansing-and-Tanker-Operations",
+		"name":"D - Gully Cleansing and Tanker Operations",
+		"competencies": [
+			
+			{
+				"key":"D1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative uses approved manual handling techniques when removing covers, including those that are stuck",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports covers that cannot be removed and leaves them in place  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative places cover(s) nearby avoiding creating a trip hazard for road users or pedestrians",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative uses the digging tool to test the content of the gully before using the hose",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative removes obstructions or silt manually from the gully chamber using only tools supplied by the company",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative removes waste using only the tools supplied by the company",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures waste and detritus is not left where it can cause a hazard to others",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative engages the suction only when the end of the hose is inside the chamber",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative reports blockage to the driver or supervisor and does not attempt to clear blockages by climbing on the vehicle",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"D10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not use personal music equipment at work",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		},
+		{
+		"key":"E-Tipping",
+		"name":"E - Tipping",
+		"competencies": [
+			
+			{
+				"key":"E1",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative ensures there is sufficient overhead clearance when tipping",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E2",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative checks that there are no overhead power lines near or above the vehicle body",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E3",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative does not allow anyone to stand under an un‑propped tank",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E4",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative uses correctly fitted props provided by the manufacturer and follows the manufacturer’s guidelines",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E5",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Operative cleans and inspects the door-sealing ring and the clamp before tightening",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E6",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver does not drive with the tank body raised",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E7",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver moves the vehicle forward in a slow and controlled manner without sudden braking or change of direction to allow full discharge of the load  ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E8",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver keeps all movement of the vehicle to a minimum and to the shortest distance required for lowering of the body",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver contacts supervisor if entry to the body of the tanker is necessary<li>What is the company procedure for contacting your supervisor if you have to enter the body of the tanker?</li></ol>"
+			},
+			{
+				"key":"E9",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver ensures that all doors and clamps are secured and the PTO (power take off) disengaged before driving off",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver assesses the risk of entry to the body of the tanker following company procedures<li>What is the company procedures for assessing risks involved in entering the body of the tanker?</li></ol>"
+			},
+			{
+				"key":"E10",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver never enters the body of a gully sucker, septic tank or drainage system",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol>Driver follows permit to work conditions provided by the company<li>What are the company’s ‘permit to work’ conditions?</li></ol>"
+			},
+			{
+				"key":"E11",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver contacts supervisor if entry to the body of the tanker is necessary",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E12",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver assesses the risk of entry to the body of the tanker following company procedures ",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			},
+			{
+				"key":"E13",
+				"methods": [
+					"O",
+					"Q/A"
+				],
+				"name":"Driver follows permit to work conditions provided by the company",
+				"values": {
+					"Competent": 1,
+					"Incompetent": -1,
+					"Unable to assess": 0
+				},
+ 				"supportingText":"<ol></ol>"
+			}
+		]
+		}
+	]
+}
