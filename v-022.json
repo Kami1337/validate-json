@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports any damaged or defective items to supervisor and requests replacements<li>What is the company procedure for reporting damaged and defective working equipment to your supervisor?</li></ol>"
+				"supportingText":"<ol><li>What is the correct training for mechanical road sweeping operations?</li></ol>"
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports to supervisor if any equipment becomes damaged during the working day and puts it aside<li>What is the company procedure for reporting damage to tools to your supervisor?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -46,7 +46,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +60,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for reporting damaged and defective working equipment to your supervisor?</li></ol>"
+
 			},
 			{
 				"key":"A5",
@@ -74,7 +75,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for reporting damage to tools to your supervisor?</li></ol>"
+
 			},
 			{
 				"key":"A6",
@@ -88,7 +90,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A7",
@@ -102,7 +104,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A8",
@@ -116,7 +118,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver reports defective tankers and does not attempt to use them<li>What is the company procedure for reporting defective tankers to your supervisor?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A9",
@@ -130,7 +132,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -151,7 +153,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B2",
@@ -165,7 +167,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the company procedure for reporting defective tankers to your supervisor?</li></ol>"
+
 			},
 			{
 				"key":"B3",
@@ -179,7 +182,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -193,7 +196,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -207,7 +210,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B6",
@@ -221,7 +224,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B7",
@@ -235,7 +238,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B8",
@@ -249,7 +252,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative only carries out any maintenance or repairs that they have been trained to perform<li>What is the correct training for the maintenance and repair of gully cleansing and tanker equipment?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B9",
@@ -263,7 +266,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative only carries out any maintenance or repairs that they have been authorised to perform<li>What is the company procedure for authorising maintenance and repair of gully cleansing and tanker equipment?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B10",
@@ -277,7 +280,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B11",
@@ -285,13 +288,14 @@
 					"O",
 					"Q/A"
 				],
-				"name":"Operative only carries out any maintenance or repairs that they have been trained  to perform",
+				"name":"Operative only carries out any maintenance or repairs that they have been trained to perform",
 				"values": {
 					"Competent": 1,
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative does nothing to endanger the public while operating the vehicle and related equipment<li>What is the company procedure for ensuring that the public and other road users are not endangered when carrying out gully cleansing and tanker operations?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure for authorising maintenance and repair of gully cleansing and tanker equipment?</li></ol>"
+
 			},
 			{
 				"key":"B12",
@@ -305,7 +309,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the correct training for the maintenance and repair of gully cleansing and tanker equipment?</li></ol>"
 			},
 			{
 				"key":"B13",
@@ -319,7 +323,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -340,7 +344,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for ensuring that the public and other road users are not endangered when carrying out gully cleansing and tanker operations?</li></ol>"
+
 			},
 			{
 				"key":"C2",
@@ -354,7 +359,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C3",
@@ -368,7 +373,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C4",
@@ -382,7 +387,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative avoids any conflict or argument with the general public and withdraws politely from a difficult situation and informs supervisor immediately<li>What is the company procedure for handling any potential conflict with the public when carrying out gully cleansing and tanker operations?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C5",
@@ -396,7 +401,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C6",
@@ -410,7 +415,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C7",
@@ -424,7 +429,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for handling any potential conflict with the public when carrying out gully cleansing and tanker operations?</li></ol>"
+
 			},
 			{
 				"key":"C8",
@@ -438,7 +444,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C9",
@@ -452,7 +458,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C10",
@@ -466,7 +472,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C11",
@@ -480,7 +486,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C12",
@@ -494,7 +500,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports covers that cannot be removed and leaves them in place<li>What is the company procedure for reporting covers that cannot be moved to your supervisor?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C13",
@@ -508,7 +514,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -529,7 +535,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D2",
@@ -543,7 +549,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the company procedure for reporting covers that cannot be moved to your supervisor?</li></ol>"
+
 			},
 			{
 				"key":"D3",
@@ -557,7 +564,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D4",
@@ -571,7 +578,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D5",
@@ -585,7 +592,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D6",
@@ -599,7 +606,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D7",
@@ -613,7 +620,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D8",
@@ -627,7 +634,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D9",
@@ -641,7 +648,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D10",
@@ -655,7 +662,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -676,7 +683,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E2",
@@ -690,7 +697,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E3",
@@ -704,7 +711,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E4",
@@ -718,7 +725,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E5",
@@ -732,7 +739,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E6",
@@ -746,7 +753,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E7",
@@ -760,7 +767,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E8",
@@ -774,7 +781,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver contacts supervisor if entry to the body of the tanker is necessary<li>What is the company procedure for contacting your supervisor if you have to enter the body of the tanker?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"E9",
@@ -788,7 +795,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver assesses the risk of entry to the body of the tanker following company procedures<li>What is the company procedures for assessing risks involved in entering the body of the tanker?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"E10",
@@ -802,7 +809,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver follows permit to work conditions provided by the company<li>What are the company’s ‘permit to work’ conditions?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"E11",
@@ -816,7 +823,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for contacting your supervisor if you have to enter the body of the tanker?</li></ol>"
+
 			},
 			{
 				"key":"E12",
@@ -830,7 +838,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedures for assessing risks involved in entering the body of the tanker?</li></ol>"
+
 			},
 			{
 				"key":"E13",
@@ -844,7 +853,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What are the company’s ‘permit to work’ conditions?</li></ol>"
+
 			}
 		]
 		}

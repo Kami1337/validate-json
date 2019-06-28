@@ -12,13 +12,13 @@
 					"O",
 					"Q/A"
 				],
-				"name":"Driver conducts daily checks listed in Defect Book in a well-lit area away from main traffic routes  ",
+				"name":"Driver conducts daily checks listed in Defect Book in a well-lit area away from main traffic routes",
 				"values": {
 					"Competent": 1,
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -31,8 +31,7 @@
 					"Competent": 1,
 					"Incompetent": -1,
 					"Unable to assess": 0
-				},
- 				"supportingText":"<ol>Any defects identified and reported to appropriate personnel<li>What is the procedure for reporting defects to appropriate personnel?</li></ol>"
+				},"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -46,7 +45,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +59,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A5",
@@ -68,13 +67,14 @@
 					"O",
 					"Q/A"
 				],
-				"name":"Any defects identified and  reported to appropriate personnel",
+				"name":"Any defects identified and reported to appropriate personnel",
 				"values": {
 					"Competent": 1,
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that only authorised passengers ride in the vehicle and that seat belts are worn at required times<li>Why are unauthorised passengers not allowed to ride in the vehicle?</li></ol>"
+				"supportingText":"<ol><li>What is the procedure for reporting defects to appropriate personnel?</li></ol>"
+
 			},
 			{
 				"key":"A6",
@@ -88,7 +88,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that employees do not ride on the back or any other part of the vehicle<li>Why is it important that employees do not ride on the back or any other part of the vehicle?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A7",
@@ -102,7 +102,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A8",
@@ -116,7 +116,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>Why are unauthorised passengers not allowed to ride in the vehicle?</li></ol>"
+
 			},
 			{
 				"key":"A9",
@@ -130,10 +131,11 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>Why is it important that employees do not ride on the back or any other part of the vehicle?</li></ol>"
+
 			},
 			{
-				"key":"A10   ",
+				"key":"A10",
 				"methods": [
 					"O",
 					"Q/A"
@@ -144,10 +146,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver check that the vehicle is loaded safely with no over-loading or overhanging items<li>Why is it necessary to remove over-hanging items?</li><li>Why is it necessary to check the vehicle is not over-loaded?</li></ol>"
+				"supportingText":""
 			},
 			{
-				"key":"A11   ",
+				"key":"A11",
 				"methods": [
 					"O",
 					"Q/A"
@@ -158,10 +160,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A12   ",
+				"key":"A12",
 				"methods": [
 					"O",
 					"Q/A"
@@ -172,10 +174,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A13   ",
+				"key":"A13",
 				"methods": [
 					"O",
 					"Q/A"
@@ -186,10 +188,11 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>Why is it necessary to remove over-hanging items?</li><li>Why is it necessary to check the vehicle is not over-loaded?</li></ol>"
+
 			},
 			{
-				"key":"A14   ",
+				"key":"A14",
 				"methods": [
 					"O",
 					"Q/A"
@@ -200,10 +203,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A15   ",
+				"key":"A15",
 				"methods": [
 					"O",
 					"Q/A"
@@ -214,7 +217,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -235,7 +238,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B2",
@@ -249,7 +252,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -263,7 +266,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -277,7 +280,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver reports any bin which falls off the bin-lift to supervisor<li>What is the company procedure for reporting any bins that fall into the bin-lift to supervisor?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -291,7 +294,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B6",
@@ -305,7 +308,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver reports any bin that falls into the hopper to supervisor<li>What is the company procedure for reporting any bins that fall into the hopper to supervisor?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B7",
@@ -319,7 +322,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for reporting any bins that fall into the bin-lift to supervisor?</li></ol>"
+
 			},
 			{
 				"key":"B8",
@@ -333,7 +337,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver reports if door remains in the open position to supervisor<li>What is the company procedure for reporting if doors remain open to supervisor?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B9",
@@ -347,7 +351,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver follows local sites rules and instructions when discharging loads<li>What are the major safety rules that must be complied with on discharging sites?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure for reporting any bins that fall into the hopper to supervisor?</li></ol>"
+
 			},
 			{
 				"key":"B10",
@@ -361,7 +366,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for reporting if doors remain open to supervisor?</li></ol>"
+
 			},
 			{
 				"key":"B11",
@@ -375,7 +381,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -396,7 +402,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What are the major safety rules that must be complied with on discharging sites?</li></ol>"
+
 			},
 			{
 				"key":"C2",
@@ -410,7 +417,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C3",
@@ -424,7 +431,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C4",
@@ -438,7 +445,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C5",
@@ -452,7 +459,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C6",
@@ -466,7 +473,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C7",
@@ -480,7 +487,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C8",
@@ -494,7 +501,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C9",
@@ -508,7 +515,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C10",
@@ -522,7 +529,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C11",
@@ -536,7 +543,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver contacts the site/depot office if unable to carry out discharging activities correctly<li>What would prevent you from carrying out discharging activities on site?</li><li>Who would you report to if unable to carry out discharging activities on site?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C12",
@@ -550,7 +557,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C13",
@@ -564,7 +571,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports defective working equipment to supervisor<li>What is the company procedure for reporting defective equipment to your supervisor?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C14",
@@ -578,7 +585,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative ensures they have been trained to operate the tail-lift equipment<li>What is the correct training for waste collection operations using tail lifting equipment?</li></ol>"
+				"supportingText":"<ol><li>What would prevent you from carrying out discharging activities on site?</li><li>Who would you report to if unable to carry out discharging activities on site?</li></ol>"
+
 			}
 		]
 		}

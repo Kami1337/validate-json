@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -46,7 +46,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -67,7 +67,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B2",
@@ -81,7 +81,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -95,7 +95,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -109,7 +109,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative performs routine maintenance activities to prevent a build up of dirt on or around the plate<li>Why is this important?</li><li>How would you go about this?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -123,7 +123,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B6",
@@ -137,7 +137,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports all accidents, incidents of damage and near misses to relevant person(s) as soon as possible<li>What are the company procedures for reporting accidents, incidents and near misses?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B7",
@@ -151,7 +151,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports any new or specific hazards arising during weighbridge operations<li>Provide some examples of hazards associated with weighbridge operations.</ol>"
+				"supportingText":""
+ 
 			},
 			{
 				"key":"B8",
@@ -165,7 +166,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Why is this important?</li><li>How would you go about this?</li></ol>"
 			},
 			{
 				"key":"B9",
@@ -179,7 +180,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B10",
@@ -193,7 +194,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What are the company procedures for reporting accidents, incidents and near misses?</li></ol>"
 			},
 			{
 				"key":"B11",
@@ -207,7 +208,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Provide some examples of hazards associated with weighbridge operations</li></ol>"
 			},
 			{
 				"key":"B12",
@@ -221,7 +222,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative follows company procedures for dealing with plant, equipment or vehicle breakdowns<li>What are the company procedures for dealing with plant, equipment and vehicle breakdowns?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B13",
@@ -235,7 +236,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative follows company procedures for dealing with plant, equipment or vehicle breakdowns<li>Describe the company procedures for dealing with breakdowns</ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B14",
@@ -249,7 +250,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative takes extra care in wet and icy conditions to ensure the weighbridge can be safely accessed and remains effective<li>How would you do this?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B15",
@@ -263,7 +264,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B16",
@@ -277,7 +278,9 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+
+				"supportingText":"<ol><li>What are the company procedures for dealing with plant, equipment and vehicle breakdowns?</li></ol>"
+
 			},
 			{
 				"key":"B17",
@@ -291,7 +294,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative demonstates Duty of Care and can state what it means<li>What do we mean by Duty of Care?</li></ol>"
+				"supportingText":"<ol><li>How would you do this?</li></ol>"
+
 			},
 			{
 				"key":"B18",
@@ -305,7 +309,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative correctly applies EWC coding and requirements of permitted wastes as applicable<li>What are EWC codes?</li><li>How are they used on site?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B19",
@@ -319,7 +323,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative takes correct actions if a pollution incident occurs requiring closure of the site: <li>Describe the corrective actions that would need to be taken if a pollution incident occurs.</ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B20",
@@ -333,7 +337,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative follows company procedures to report pollution incidents and accidents that may occur<li>Describe the company procedures for reporting incidents and accidents</ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B21",
@@ -347,7 +351,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative deals follows company procedures in the event of a fire on site<li>What measures do you take to reduce the potential threat of fires?</li> <li>If a fire were to break out, what action would you take to minimise the effect on human health and the environment?</li><li>What actions are you required to take to call the emergency services?</li></ol>"
+				"supportingText":"<ol><li>What do we mean by Duty of Care?</li></ol>"
 			},
 			{
 				"key":"B22",
@@ -361,7 +365,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What are EWC codes?</li><li>How are they used on site?</li></ol>"
+
 			}
 		]
 		},
@@ -382,7 +387,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Describe the corrective actions that would need to be taken if a pollution incident occurs.</li></ol>"
+
 			},
 			{
 				"key":"C2",
@@ -396,7 +402,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Describe the company procedures for reporting incidents and accidents</ol>"
+
 			},
 			{
 				"key":"C3",
@@ -410,7 +417,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What measures do you take to reduce the potential threat of fires?</li> <li>If a fire were to break out, what action would you take to minimise the effect on human health and the environment?</li><li>What actions are you required to take to call the emergency services?</li></ol>"
+
 			}
 		]
 		}

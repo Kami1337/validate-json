@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative explains which are “required materials” on the moving conveyor belt carrying mixed waste<li>What are “required materials”?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,9 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				
+				"supportingText":"<ol><li>How do you change/exchange the filter materials in a face mask?</li><li>Why is this important?</li></ol>"
+
 			},
 			{
 				"key":"A3",
@@ -46,7 +48,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +62,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -81,7 +83,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What are “required materials”?</li></ol>"
+
 			},
 			{
 				"key":"B2",
@@ -95,7 +98,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative follows company procedures when containers are full<li>What are the company procedures when containers are full?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -109,7 +112,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports all accidents, near misses and incidents of damage to relevant person(s) as soon as possible<li>What are the company procedures for reporting accidents and near misses?</li><li>What are the company procedures for reporting damage?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -123,7 +126,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -137,7 +140,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative identifies non-conforming materials in the picking zone and takes relevant action in accordance with company procedures<li>What action would you take if you identified non-conforming materials on the picking line?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B6",
@@ -151,7 +154,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What are the company procedures when containers are full?</li></ol>"
+
 			},
 			{
 				"key":"B7",
@@ -165,7 +169,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative correctly follows company procedures in the event of machinery or equipment malfunction<li>What are the compant procedures in the event of machinery or equipment malfunction?</li></ol>"
+				"supportingText":"<ol><li>What are the company procedures for reporting accidents and near misses?</li><li>What are the company procedures for reporting damage?</li></ol>"
+
 			},
 			{
 				"key":"B8",
@@ -179,7 +184,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B9",
@@ -193,7 +198,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative identifies key risks with picking line activities<li>What are the key risks to be considered when working on a picking line?</li></ol>"
+				"supportingText":"<ol><li>What action would you take if you identified non-conforming materials on the picking line?</li></ol>"
+
 			},
 			{
 				"key":"B10",
@@ -207,7 +213,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative follows emergency procedures<li>What actions should you follow if someone is injured whilst using the picking line?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B11",
@@ -221,7 +227,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What are the compant procedures in the event of machinery or equipment malfunction?</li></ol>"
+
 			},
 			{
 				"key":"B12",
@@ -235,7 +242,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B13",
@@ -249,7 +256,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What are the key risks to be considered when working on a picking line?</li></ol>"
+
 			},
 			{
 				"key":"B14",
@@ -263,7 +271,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What actions should you follow if someone is injured whilst using the picking line?</li></ol>"			 
 			},
 			{
 				"key":"B15",
@@ -277,7 +285,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B16",
@@ -291,7 +299,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		}

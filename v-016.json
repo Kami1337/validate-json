@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -46,7 +46,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports defective equipment or tools to supervisor and awaits new equipment or tools<li>What is the procedure for reporting defective equipment or tools to your supervisor?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +60,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A5",
@@ -74,7 +74,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports to supervisor if any equipment becomes damaged during the working day and puts them aside<li>What is the procedure for reporting equipment damaged during the working day to your supervisor?</li></ol>"
+				"supportingText":""
+
 			},
 			{
 				"key":"A6",
@@ -88,8 +89,9 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports all accidents, incidents and near misses to supervisor<li>What is the company procedure for reporting accidents, incidents and near misses to your supervisor?</li></ol>"
-			},
+				"supportingText":"<ol><li>What is the procedure for reporting defective equipment or tools to your supervisor?</li></ol>"
+
+			},	
 			{
 				"key":"A7",
 				"methods": [
@@ -102,7 +104,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A8",
@@ -116,7 +118,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports any new or specific hazards and any difficulties encountered to supervisor<li>What is the company procedure for reporting any new or specific hazards and any difficulties encountered to your supervisor?</li></ol>"
+				"supportingText":"<ol><li>What is the procedure for reporting equipment damaged during the working day to your supervisor?</li></ol>"
+
 			},
 			{
 				"key":"A9",
@@ -124,13 +127,14 @@
 					"O",
 					"Q/A"
 				],
-				"name":"Operative reports all accidents, incidents and near misses to supervisor ",
+				"name":"Operative reports all accidents,incidents and near misses to supervisor",
 				"values": {
 					"Competent": 1,
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for reporting accidents, incidents and near misses to your supervisor?</li></ol>"
+
 			},
 			{
 				"key":"A10",
@@ -144,7 +148,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A11",
@@ -158,7 +162,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for reporting any new or specific hazards and any difficulties encountered to your supervisor?</li></ol>"
+
 			},
 			{
 				"key":"A12",
@@ -172,7 +177,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -193,7 +198,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B2",
@@ -207,7 +212,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -221,7 +226,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -235,7 +240,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -249,7 +254,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative identifies types of litter, detritus and debris that requires specialist treatment and poses a potential risk or health hazard<li>What are the major types of litter, detritus and debris that require specialist treatment?</li><li>What are the major types of litter, detritus and debris that pose a potential risk or health hazard?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B6",
@@ -263,7 +268,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative notifies supervisor of any hazardous litter, detritus and debris that cannot be disposed of immediately and seeks advice on how to proceed<li>What is the company procedure for notifying any hazardous litter, detritus and debris that cannot be disposed of immediately to your supervisor?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B7",
@@ -277,7 +282,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative only disposes of potentially hazardous litter, detritus or debris that they have been trained to deal with<li>Which types of potentially hazardous litter, detritus or debris have you been trained to deal with?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B8",
@@ -291,7 +296,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What are the major types of litter, detritus and debris that require specialist treatment?</li><li>What are the major types of litter, detritus and debris that pose a potential risk or health hazard?</li></ol>"
+
 			},
 			{
 				"key":"B9",
@@ -305,7 +311,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for notifying any hazardous litter, detritus and debris that cannot be disposed of immediately to your supervisor?</li></ol>"
+
 			},
 			{
 				"key":"B10",
@@ -319,7 +326,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative does nothing to endanger the public and other road users while undertaking manual street cleaning operations<li>What is the company procedure for ensuring that the public and other road users are not endangered when carrying out manual street cleaning operations?</li><li>What precautions must be taken to avoid endangering other road users and members of the public?</li><li>Which people are particularly at risk from street cleaning activities?</li></ol>"
+				"supportingText":"<ol><li>Which types of potentially hazardous litter, detritus or debris have you been trained to deal with?</li></ol>"
+
 			},
 			{
 				"key":"B11",
@@ -333,7 +341,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative avoids any conflict or argument with the general public and withdraws politely from a difficult situation and informs supervisor immediately<li>What is the company procedure for avoiding conflict or argument with the general public?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B12",
@@ -347,7 +355,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -368,7 +376,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for ensuring that the public and other road users are not endangered when carrying out manual street cleaning operations?</li><li>What precautions must be taken to avoid endangering other road users and members of the public?</li><li>Which people are particularly at risk from street cleaning activities?</li></ol>"
+
 			},
 			{
 				"key":"C2",
@@ -382,7 +391,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative takes extra care in wet and icy conditions<li>What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure for avoiding conflict or argument with the general public?</li></ol>"
+
 			}
 		]
 		},
@@ -403,7 +413,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D2",
@@ -417,7 +427,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D3",
@@ -431,7 +441,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative asks for assistance if load is heavy or awkward<li>Which types of load could require assistance when moving?</li></ol>"
+				"supportingText":"<li>What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot?</li></ol>"
+
 			},
 			{
 				"key":"D4",
@@ -445,7 +456,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -466,7 +477,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E2",
@@ -480,7 +491,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<li>Which types of load could require assistance when moving?</li></ol>"
+
 			},
 			{
 				"key":"E3",
@@ -494,7 +506,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative exercises care when manually handling items in wet and icy conditions<li>What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"E4",
@@ -508,7 +520,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E5",
@@ -522,7 +534,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E6",
@@ -536,7 +548,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot?</li></ol>"
+
 			},
 			{
 				"key":"E7",
@@ -550,7 +563,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		}

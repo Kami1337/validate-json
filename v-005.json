@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -53,7 +53,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B2",
@@ -67,7 +67,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -81,7 +81,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -95,7 +95,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -109,7 +109,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B6",
@@ -123,7 +123,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B7",
@@ -137,7 +137,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B8",
@@ -151,7 +151,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative takes care when climbing up or down steps, particularly in wet or icy conditionsQ. What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot?</li></ol>"
+ 				"supportingText":"<ol><li>What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot?</li></ol>"
 			},
 			{
 				"key":"B9",
@@ -165,7 +165,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B10",
@@ -179,7 +179,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B11",
@@ -193,7 +193,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B12",
@@ -207,7 +207,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -228,7 +228,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative follows instructions given by recycling facility operator<li>What is the company procedure for offloading stillage materials at a recycling facility?</li></ol>"
+ 				"supportingText":"<ol><li>What is the company procedure for offloading stillage materials at a recycling facility?</li></ol>"
 			},
 			{
 				"key":"C2",
@@ -242,7 +242,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C3",
@@ -256,7 +256,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative sweeps the vehicle bed only when instructed and with the permission of the plant operative and when all unloading and loading of the vehicle has ceased<li>What is the company procedure for sweeping the vehicle bed?</li><li>When is it safe to sweep the vehicle bed?</li></ol>"
+ 				"supportingText":"<ol><li>What is the company procedure for sweeping the vehicle bed?</li><li>When is it safe to sweep the vehicle bed?</li></ol>"
 			},
 			{
 				"key":"C4",
@@ -270,7 +270,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C5",
@@ -284,7 +284,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative cleans and dries food waste stillages at the end of the shift/ working day<li>What is the company procedure for cleaning and drying food waste stillages?</li></ol>"
+ 				"supportingText":"<ol><li>What is the company procedure for cleaning and drying food waste stillages?</li></ol>"
 			}
 		]
 		}

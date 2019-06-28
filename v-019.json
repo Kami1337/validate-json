@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -46,7 +46,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +60,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A5",
@@ -74,7 +74,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A6",
@@ -88,7 +88,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A7",
@@ -102,7 +102,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A8",
@@ -116,7 +116,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A9",
@@ -130,7 +130,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A10",
@@ -144,7 +144,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative is aware of and understands the precautions and emergency actions to be followed when chemical additives are to be used<li>What is a COSHH assessment?</li><li>Where can you find out about precautions to be taken and emergency procedures when using chemicals?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A11",
@@ -158,7 +158,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports any defects or problems to supervisor and sets equipment and materials aside<li>What is the company procedure for reporting defects in or problems with equipment and materials to your supervisor?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A12",
@@ -172,7 +172,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative does not attempt to use any item of equipment that has a label declaring it to be defective or in need of servicing<li>Why should items of equipment labeled defective or in need of service not be used?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A13",
@@ -186,7 +186,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is a COSHH assessment?</li><li>Where can you find out about precautions to be taken and emergency procedures when using chemicals?</li></ol>"
+
 			},
 			{
 				"key":"A14",
@@ -200,7 +201,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for reporting defects in or problems with equipment and materials to your supervisor?</li></ol>"
+
 			},
 			{
 				"key":"A15",
@@ -214,7 +216,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>Why should items of equipment labeled defective or in need of service not be used?</li></ol>"
+
 			}
 		]
 		},
@@ -235,7 +238,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B2",
@@ -249,7 +252,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -263,7 +266,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -277,7 +280,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -291,7 +294,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative uses a safe and designated working platform when working at height to perform tasks<li>Why is it necessary to use the platform when working at height?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B6",
@@ -305,7 +308,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B7",
@@ -319,7 +322,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative does nothing to endanger the public while undertaking cleaning operations<li>What is the company procedure for ensuring that the public are not endangered when carrying out cleaning operations?</li><li>What precautions must be taken to avoid endangering members of the public?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B8",
@@ -333,7 +336,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative avoids any conflict or argument with the general public and withdraws politely from a difficult situation and informs supervisor immediately<li>What is the company procedure for avoiding conflict or argument with the general public?</li></ol>"
+				"supportingText":"<ol><li>Why is it necessary to use the platform when working at height?</li></ol>"	
 			},
 			{
 				"key":"B9",
@@ -347,7 +350,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -368,7 +371,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for ensuring that the public are not endangered when carrying out cleaning operations?</li><li>What precautions must be taken to avoid endangering members of the public?</li></ol>"
+
 			},
 			{
 				"key":"C2",
@@ -382,7 +386,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the company procedure for avoiding conflict or argument with the general public?</li></ol>"
 			}
 		]
 		}

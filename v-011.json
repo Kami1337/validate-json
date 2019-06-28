@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -46,7 +46,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +60,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Any defects identified and reported to appropriate personnel<li>What is the procedure for reporting defects to appropriate personnel?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A5",
@@ -68,13 +68,14 @@
 					"O",
 					"Q/A"
 				],
-				"name":"Any defects identified and  reported to appropriate personnel",
+				"name":"Any defects identified and reported to appropriate personnel",
 				"values": {
 					"Competent": 1,
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the procedure for reporting defects to appropriate personnel?</li></ol>"
+
 			},
 			{
 				"key":"A6",
@@ -88,7 +89,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that only authorised passengers ride in the vehicle and that seat belts are worn at required times<li>Why are unauthorised passengers not allowed to ride in the vehicle?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A7",
@@ -102,7 +103,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that employees do not ride on the back or any other part of the vehicle<li>Why is it important that employees do not ride on the back or any other part of the vehicle?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A8",
@@ -116,7 +117,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Why are unauthorised passengers not allowed to ride in the vehicle?</li></ol>"
+
 			},
 			{
 				"key":"A9",
@@ -130,10 +132,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Why is it important that employees do not ride on the back or any other part of the vehicle?</li></ol>"
 			},
 			{
-				"key":"A10   ",
+				"key":"A10",
 				"methods": [
 					"O",
 					"Q/A"
@@ -144,24 +146,24 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A11   ",
+				"key":"A11",
 				"methods": [
 					"O",
 					"Q/A"
 				],
-				"name":"Driver operates vehicle safely: •following public highway traffic convention•with due consideration to others",
+				"name":"Driver operates vehicle safely:<ol><li>following public highway traffic convention</li><li>with due consideration to others</li>",
 				"values": {
 					"Competent": 1,
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver check that the vehicle is loaded safely with no over-loading or overhanging items<li>Why is it necessary to remove over-hanging items?</li><li>Why is it necessary to check the vehicle is not over-loaded?</li></ol>"
+				"supportingText":""
 			},
 			{
-				"key":"A12   ",
+				"key":"A12",
 				"methods": [
 					"O",
 					"Q/A"
@@ -172,10 +174,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A13   ",
+				"key":"A13",
 				"methods": [
 					"O",
 					"Q/A"
@@ -186,10 +188,11 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Why is it necessary to remove over-hanging items?</li><li>Why is it necessary to check the vehicle is not over-loaded?</li></ol>"
+
 			},
 			{
-				"key":"A14   ",
+				"key":"A14",
 				"methods": [
 					"O",
 					"Q/A"
@@ -200,10 +203,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A15   ",
+				"key":"A15",
 				"methods": [
 					"O",
 					"Q/A"
@@ -214,10 +217,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A16   ",
+				"key":"A16",
 				"methods": [
 					"O",
 					"Q/A"
@@ -228,10 +231,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that, when operating on a civic amenity site, the site is closed or the area cordoned off and all persons clear of the area before loading or unloading containers<li>What are the procedures when operating on a civic amenity site for the loading and unloading of containers?</li></ol>"
+				"supportingText":""
 			},
 			{
-				"key":"A17   ",
+				"key":"A17",
 				"methods": [
 					"O",
 					"Q/A"
@@ -242,7 +245,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver complies with all site safety rules when on customer’s premises or tipping sites<li>What are the major safety rules that must be complied with on customer’s premises?</li><li>What are the major safety rules that must be complied with on tipping sites?</li></ol>"
+				"supportingText":""
 			}
 		]
 		},
@@ -263,7 +266,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What are the procedures when operating on a civic amenity site for the loading and unloading of containers?</li></ol>"
+
 			},
 			{
 				"key":"B2",
@@ -277,7 +281,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What are the major safety rules that must be complied with on customer’s premises?</li><li>What are the major safety rules that must be complied with on tipping sites?</li></ol>"
 			},
 			{
 				"key":"B3",
@@ -291,7 +295,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver records any defects in the container in the Defects Book<li>What is the company procedure for recoding container defects?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -305,7 +309,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -319,7 +323,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the company procedure for recoding container defects?</li></ol>"
 			},
 			{
 				"key":"B6",
@@ -333,7 +337,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B7",
@@ -347,8 +351,9 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver informs supervisor when third party containers do not have bale-bar deflector fitted<li>What are the company procedures for informing your supervisor when third party containers do not have bale-bar deflector fitted?</li></ol>"
+				"supportingText":""
 			},
+			
 			{
 				"key":"B8",
 				"methods": [
@@ -361,7 +366,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B9",
@@ -375,7 +380,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B10",
@@ -389,7 +394,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B11",
@@ -403,7 +408,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B12",
@@ -417,7 +422,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B13",
@@ -431,7 +436,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver creates a safety zone using cones around containers which have not locked or do not sit on the vehicle body correctly<li>What are the company procedures for creating a safety zone around containers which have not locked or do not sit on the vehicle body correctly?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B14",
@@ -445,7 +450,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Safety zone is at least as wide as the vehicle/container is high<li>How do you decide how large a safety zone must be?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B15",
@@ -459,7 +464,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that the safety zone is monitored to prevent anyone entering the zone<li>Why is it important to monitor the safety zone on a regular basis?</li></ol>"
+				"supportingText":"<ol><li>What are the company procedures for creating a safety zone around containers which have not locked or do not sit on the vehicle body correctly?</li></ol>"
 			},
 			{
 				"key":"B16",
@@ -473,7 +478,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>How do you decide how large a safety zone must be?</li></ol>"
+
 			},
 			{
 				"key":"B17",
@@ -487,7 +493,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver contacts supervisor if container still fails to load correctly and request attendance of a fitter<li>What is the company procedure notifying your supervisor if container fails to load correctly?</li></ol>"
+				"supportingText":"<ol><li>Why is it important to monitor the safety zone on a regular basis?</li></ol>"
 			},
 			{
 				"key":"B18",
@@ -501,7 +507,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B19",
@@ -515,7 +521,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the company procedure notifying your supervisor if container fails to load correctly?</li></ol>"
 			},
 			{
 				"key":"B20",
@@ -529,7 +535,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver stops vehicle if load has become unstable or dangerous and assesses if it is safe to readjust the load<li>What is the company procedure if a load has become unstable or dangerous?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B21",
@@ -543,7 +549,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver informs supervisor if it is unsafe to reload the vehicle and requests assistance from nearest fleet workshop<li>What is the company procedure for informing your supervisor if it is unsafe to reload the vehicle?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure if a load has become unstable or dangerous?</li></ol>"
 			},
 			{
 				"key":"B22",
@@ -557,7 +563,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B23",
@@ -571,7 +577,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the company procedure for informing your supervisor if it is unsafe to reload the vehicle?</li></ol>"
 			},
 			{
 				"key":"B24",
@@ -585,7 +591,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B25",
@@ -599,7 +605,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B26",
@@ -613,7 +619,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver reports defective door mechanisms or fastenings to supervisor<li>What is the company procedure for reporting defective door mechanisms or fastenings to supervisor?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B27",
@@ -627,7 +633,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B28",
@@ -641,7 +647,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the company procedure for reporting defective door mechanisms or fastenings to supervisor?</li></ol>"
+
 			},
 			{
 				"key":"B29",
@@ -655,7 +662,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B30",
@@ -669,7 +676,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B31",
@@ -683,7 +690,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -704,7 +711,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver uses secure lockable steps, an access platform or a fall-arrest system when trimming the load is not possible from ground level<li>Which types of equipment must be used if you cannot trim the load from ground level?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C2",
@@ -718,7 +725,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that correct protection procedures are followed when working from height<li>What is the company procedure for protecting yourself when working from height?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C3",
@@ -732,7 +739,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver informs supervisor if unable to work safely from height<li>What is the company procedure for informing supervisor if you are unable to work from height?</li></ol>"
+				"supportingText":"<ol><li>Which types of equipment must be used if you cannot trim the load from ground level?</li></ol>"
 			},
 			{
 				"key":"C4",
@@ -746,7 +753,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that assistance is available when using a fall-arrest system to prevent suspension trauma<li>Why is it important to ensure someone is with you when using a fall-arrest system?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure for protecting yourself when working from height?</li></ol>"
 			},
 			{
 				"key":"C5",
@@ -760,7 +767,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures safety harness is correctly adjusted before use<li>How do you adjust a safety harness before use?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure for informing supervisor if you are unable to work from height?</li></ol>"
 			},
 			{
 				"key":"C6",
@@ -774,7 +781,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver follows company procedure for the checking and storage of safety harnesses<li>What is the company procedure for checking and storing safety harnesses?</li></ol>"
+				"supportingText":"<ol><li>Why is it important to ensure someone is with you when using a fall-arrest system?</li></ol>"
 			}
 		]
 		},
@@ -795,7 +802,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver reports any problems with the condition and use of the safety harness to supervisor<li>What is the company procedure for reporting any problems with the condition or use of the safety harness to your supervisor?</li></ol>"
+				"supportingText":"<ol><li>How do you adjust a safety harness before use?</li></ol>"
 			},
 			{
 				"key":"D2",
@@ -809,7 +816,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that the safety harness is never used when alone<li>Why is it important never to use a safety harness if working alone?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure for checking and storing safety harnesses?</li></ol>"
+
 			},
 			{
 				"key":"D3",
@@ -823,7 +831,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the company procedure for reporting any problems with the condition or use of the safety harness to your supervisor?</li></ol>"
 			},
 			{
 				"key":"D4",
@@ -837,7 +845,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Why is it important never to use a safety harness if working alone?</li></ol>"
 			}
 		]
 		}

@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -26,13 +26,13 @@
 					"O",
 					"Q/A"
 				],
-				"name":"Operative demonstrates caution and care handling  clinical/healthcare wastes",
+				"name":"Operative demonstrates caution and care handling clinical/healthcare wastes",
 				"values": {
 					"Competent": 1,
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative correctly identifies incorrectly packaged clinical/healthcare wastes<li>What is the main difference between infectious clinical waste and offensive waste?</li><li>What type of sack should be used for the disposal of offensive waste?</li><li>What type of sack/container should be used for the disposal of clinical infectious wastes?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -46,7 +46,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative segregates different types of clinical/healthcare waste and can state reasons for segregation<li>Why are different types of clinical waste segregated at source (or use comparative examples)?</li><li>What are the different types of treatment/disposal used for the types of waste your company produces?</li><li>Can you tell me what happens to the waste when it leaves this site?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +60,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative has obtained or received suitable preventative vaccinations for specified infectious diseases<li>Why is it important to be vaccinated against certain infectious diseases?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A5",
@@ -74,7 +74,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A6",
@@ -88,7 +88,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the main difference between infectious clinical waste and offensive waste?</li><li>What type of sack should be used for the disposal of offensive waste?</li><li>What type of sack/container should be used for the disposal of clinical infectious wastes?</li></ol>"
+
 			},
 			{
 				"key":"A7",
@@ -102,7 +103,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Why are different types of clinical waste segregated at source (or use comparative examples)?</li><li>What are the different types of treatment/disposal used for the types of waste your company produces?</li><li>Can you tell me what happens to the waste when it leaves this site?</li></ol>"
+
 			}
 		]
 		},
@@ -123,7 +125,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Why is it important to be vaccinated against certain infectious diseases?</li></ol>"
+
 			},
 			{
 				"key":"B2",
@@ -137,7 +140,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -151,7 +154,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -165,7 +168,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative seeks assistance if unsure about the type of clinical/healthcare waste container or disposal route<li>What action would you take if you found an unlabelled yellow container and you were unsure about the contents?</li><li>How do you identify where clinical waste bags have come from?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -179,7 +182,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative can state internal procedure for reporting non-conformances<li>What action would you take if you found a leaking container containing infectious clinical waste?</li><li>What would you do if you found a lack bag labelled as ‘clinical waste’?</li><li>What is the different between a non-conformance and an accident?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B6",
@@ -193,7 +196,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B7",
@@ -207,7 +210,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative ensures any cut or abrasion is suitably cleaned and covered before starting the handling process<li>If you had a cut on your hand, what action would you take before starting your collections?</li><li>What are the potential risks of not covering an open wound when dealing with soiled/infectious materials?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B8",
@@ -221,7 +224,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports any injury, accident or near miss as per company procedure<li>What would you do if you injured your leg when moving some rigid waste containers?</li><li>What is the company procedure for reporting accidents?</li></ol>"
+				"supportingText":"<ol><li>What action would you take if you found an unlabelled yellow container and you were unsure about the contents?</li><li>How do you identify where clinical waste bags have come from?</li></ol>"
 			},
 			{
 				"key":"B9",
@@ -235,7 +238,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What action would you take if you found a leaking container containing infectious clinical waste?</li><li>What would you do if you found a lack bag labelled as ‘clinical waste’?</li><li>What is the different between a non-conformance and an accident?</li></ol>"
+
 			},
 			{
 				"key":"B10",
@@ -249,7 +253,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B11",
@@ -263,7 +267,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>If you had a cut on your hand, what action would you take before starting your collections?</li><li>What are the potential risks of not covering an open wound when dealing with soiled/infectious materials?</li></ol>"
+
 			},
 			{
 				"key":"B12",
@@ -277,7 +282,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What would you do if you injured your leg when moving some rigid waste containers?</li><li>What is the company procedure for reporting accidents?</li></ol>"
+
 			},
 			{
 				"key":"B13",
@@ -291,7 +297,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B14",
@@ -305,7 +311,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -326,7 +332,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C2",
@@ -340,7 +346,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports spillage (and action taken) to supervisor and assists in completing a non-conformance report<li>What is the company procedure for reporting spillages?</li><li>Why is it important to investigate the causes of a clinical waste spillage?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C3",
@@ -354,7 +360,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C4",
@@ -368,7 +374,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C5",
@@ -382,7 +388,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C6",
@@ -396,7 +402,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the company procedure for reporting spillages?</li><li>Why is it important to investigate the causes of a clinical waste spillage?</li></ol>"
+
 			}
 		]
 		},
@@ -417,7 +424,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D2",
@@ -431,7 +438,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative implements the local procedure for dealing with a needle-stick injury<li>Describe how you would treat yourself or a colleague who had received a needle-stick injury.</ol>"
+				"supportingText":""
 			},
 			{
 				"key":"D3",
@@ -445,7 +452,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative implements the local procedure for dealing with a needle-stick injury<li>Describe how you would treat yourself or a colleague who had received a needle-stick injury.</ol>"
+				"supportingText":""
 			},
 			{
 				"key":"D4",
@@ -459,7 +466,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports sharps injury/non-conformance (and action taken) to supervisor and assists in completing relevant reports<li>What information do you need to provide to your supervisor for the report?</li><li>How do you think needle-stick injuries can be avoided in the future?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"D5",
@@ -473,7 +480,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D6",
@@ -487,7 +494,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Describe how you would treat yourself or a colleague who had received a needle-stick injury.</ol>"
+
 			},
 			{
 				"key":"D7",
@@ -501,7 +509,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D8",
@@ -515,7 +523,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What information do you need to provide to your supervisor for the report?</li><li>How do you think needle-stick injuries can be avoided in the future?</li></ol>"
+
 			}
 		]
 		}

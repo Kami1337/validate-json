@@ -7,7 +7,7 @@
 		"competencies": [
 			
 			{
-				"key":"A1     ",
+				"key":"A1",
 				"methods": [
 					"O",
 					"Q/A"
@@ -18,10 +18,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative checks bin contents for contamination and co-mingled waste<li>What is the company procedure for checking contamination of green waste?</li><li>Which types of waste are frequently mixed with green waste?</li></ol>"
+ 				"supportingText":"<ol><li>What is the company procedure for checking contamination of green waste?</li><li>Which types of waste are frequently mixed with green waste?</li></ol>"
 			},
 			{
-				"key":"A2     ",
+				"key":"A2",
 				"methods": [
 					"O",
 					"Q/A"
@@ -32,10 +32,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A3     ",
+				"key":"A3",
 				"methods": [
 					"O",
 					"Q/A"
@@ -46,10 +46,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A4     ",
+				"key":"A4",
 				"methods": [
 					"O",
 					"Q/A"
@@ -60,10 +60,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative treats aggressive or abusive members of the public politely yet neutrally avoiding arguments or physical contact<li>What is the company procedure for handling any potential conflict with the public?</li></ol>"
+ 				"supportingText":"<ol><li>What is the company procedure for handling any potential conflict with the public?</li></ol>"
 			},
 			{
-				"key":"A5     ",
+				"key":"A5",
 				"methods": [
 					"O",
 					"Q/A"
@@ -74,7 +74,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -84,7 +84,7 @@
 		"competencies": [
 			
 			{
-				"key":"B1     ",
+				"key":"B1",
 				"methods": [
 					"O",
 					"Q/A"
@@ -95,10 +95,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"B2     ",
+				"key":"B2",
 				"methods": [
 					"O",
 					"Q/A"
@@ -109,10 +109,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"B3     ",
+				"key":"B3",
 				"methods": [
 					"O",
 					"Q/A"
@@ -123,10 +123,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"B4     ",
+				"key":"B4",
 				"methods": [
 					"O",
 					"Q/A"
@@ -137,7 +137,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative follows the correct company procedure for disposal of the drained liquid<li>What is the company procedure for the disposal of drained liquid produced during green waste collection?</li></ol>"
+ 				"supportingText":"<ol><li>What is the company procedure for the disposal of drained liquid produced during green waste collection?</li></ol>"
 			}
 		]
 		}

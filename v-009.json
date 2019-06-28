@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -46,7 +46,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>If the vehicle is over 3.5 tonnes the driver checks that any reversing camera system is in full working order: <li>How do you operate the camera reversing system in vehicles over 3.5 tonnes?</li><li>What safety checks do you carry out on camera reversing systems in vehicles over 3.5 tonnes?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +60,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver reports any defects immediately to supervisor and awaits further instructions: <li>What is the procedure for notifying your supervisor of any defects on the vehicle?</li></ol>"
+				"supportingText":"<ol><li>How do you operate the camera reversing system in vehicles over 3.5 tonnes?</li><li>What safety checks do you carry out on camera reversing systems in vehicles over 3.5 tonnes?</li></ol>"
 			},
 			{
 				"key":"A5",
@@ -74,7 +74,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the procedure for notifying your supervisor of any defects on the vehicle?</li></ol>"
 			}
 		]
 		},
@@ -95,7 +95,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver contacts the supervisor where pedestrians or parked vehicles prevent access<li>What is the procedure for notifying your supervisor when pedestrian movement or obstructions prevent reversing?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B2",
@@ -109,7 +109,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver avoids confrontation with members of the public when planning for reversing operations<li>What are your company’s suggested methods of avoiding conflict with the public when assessing if it is safe to reverse?</li></ol>"
+				"supportingText":"<ol><li>What is the procedure for notifying your supervisor when pedestrian movement or obstructions prevent reversing?</li></ol>"
+
 			},
 			{
 				"key":"B3",
@@ -123,7 +124,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What are your company’s suggested methods of avoiding conflict with the public when assessing if it is safe to reverse?</li></ol>"
+
 			},
 			{
 				"key":"B4",
@@ -137,7 +139,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -151,7 +153,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -172,7 +174,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C2",
@@ -186,7 +188,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C3",
@@ -200,7 +202,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver obeys the site rules on reversing procedures when collecting or tipping off at third party or own company premises<li>What are the major safety rules that must be complied with when reversing during collection or tipping operations on third party premises?</li><li>What are your company’s safety rules on reversing?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C4",
@@ -214,7 +216,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver uses the creep and peep method of reversing when operating a one-man operated vehicle making sure that they are aware of their surroundings<li>What is the creep and peep method of reversing?</li><li>How do you check the area surrounding the reversing area?</li></ol>"
+				"supportingText":"<ol><li>What are the major safety rules that must be complied with when reversing during collection or tipping operations on third party premises?</li><li>What are your company’s safety rules on reversing?</li></ol>"
+
 			},
 			{
 				"key":"C5",
@@ -228,7 +231,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the creep and peep method of reversing?</li><li>How do you check the area surrounding the reversing area?</li></ol>"
+
 			}
 		]
 		}

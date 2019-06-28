@@ -17,7 +17,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What are the opening and closing times for the site on each day of the week?</li><li>When might the opening and closing times for the site vary?</li><li>Describe the process of opening and closing the site</ol>"
 			},
 			{
 				"key":"A2",
@@ -31,7 +31,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -45,7 +45,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -59,7 +59,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A5",
@@ -73,7 +73,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative explains procedures for maintaining traffic flow in relation to vehicle breaks down on site<li>What is the company procedure for checking contamination of green waste?</li><li>Which types of waste are frequently mixed with green waste?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A6",
@@ -87,7 +87,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative can maintain traffic flow and minimise disruption if an oversized vehicle or vehicle towing a trailer arrives on site<li>What is the company procedure for dealing with an oversized vehicle on site?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A7",
@@ -101,7 +101,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A8",
@@ -115,7 +115,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A9",
@@ -129,7 +129,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for checking contamination of green waste?</li><li>Which types of waste are frequently mixed with green waste?</li></ol>"
+
 			},
 			{
 				"key":"A10",
@@ -143,7 +144,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports all accidents, incidents of damage and near misses to supervisor as soon as possible<li>What is the company procedure for reporting accidents and near misses?</li><li>What is the company procedure for reporting damage?</li><li>What do you do if a vehicle undertakes you on the pavement/grass verge and nearly hits a colleague?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure for dealing with an oversized vehicle on site?</li></ol>"
+
 			},
 			{
 				"key":"A11",
@@ -157,7 +159,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A12",
@@ -171,7 +173,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A13",
@@ -185,7 +187,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A14",
@@ -199,7 +201,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative deals with ‘fly-tipped’ waste deposited at the perimeter of the site: <li>What is fly tipping?</li><li>What action would you take if you found that waste had been ‘fly-tipped’?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure for reporting accidents and near misses?</li><li>What is the company procedure for reporting damage?</li><li>What do you do if a vehicle undertakes you on the pavement/grass verge and nearly hits a colleague?</li></ol>"
 			},
 			{
 				"key":"A15",
@@ -213,7 +215,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative explains how to differentiate vehicles carrying trade waste from those carrying domestic waste<li>How would you differentiate vehicles carrying trade waste from those carrying domestic waste?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A16",
@@ -227,7 +229,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A17",
@@ -241,7 +243,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A18",
@@ -249,13 +251,13 @@
 					"O",
 					"Q/A"
 				],
-				"name":"Operative explains how ‘fly tipped’   waste deposited on the perimeter of the site is managed.",
+				"name":"Operative explains how ‘fly tipped’ waste deposited on the perimeter of the site is managed.",
 				"values": {
 					"Competent": 1,
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is fly tipping?</li><li>What action would you take if you found that waste had been ‘fly-tipped’?</li></ol>"
 			}
 		]
 		},
@@ -276,7 +278,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>How would you differentiate vehicles carrying trade waste from those carrying domestic waste?</li></ol>"
+
 			},
 			{
 				"key":"B2",
@@ -290,7 +293,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -304,7 +307,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -318,7 +321,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -332,7 +335,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B6",
@@ -346,7 +349,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B7",
@@ -360,7 +363,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative undertakes site activities during unusual and adverse weather conditions:Q. What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot?</li><li>What action do you take to prevent localised flooding after snow or heavy rain?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B8",
@@ -374,7 +377,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative treats surfaces during snow and icy conditions (e.g. applying surface treatments): <li>How would you treat surfaces during snow and icy conditions?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B9",
@@ -388,7 +391,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative rectifies blocked drains and reduce flooding potential during adverse weather conditions<li>How would you unblock drains on site?</li><li>why is this important?</li></ol>"
+
+				"supportingText":""
 			},
 			{
 				"key":"B10 ",
@@ -402,7 +406,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative informs relevant person(s) in the event of worsening conditions<li>Why is this important?</li></ol>"
+				"supportingText":""
 			}
 		]
 		},
@@ -423,7 +427,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot?</li><li>What action do you take to prevent localised flooding after snow or heavy rain?</li></ol>"
+
 			},
 			{
 				"key":"C2",
@@ -437,7 +442,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>How would you treat surfaces during snow and icy conditions?</li></ol>"
 			},
 			{
 				"key":"C3",
@@ -451,7 +456,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative changes/exchanges filter materials for face mask<li>How do you change/exchange the filter materials in a face mask?</li><li>Why is this important?</li></ol>"
+				"supportingText":"<ol><li>How would you unblock drains on site?</li><li>why is this important?</li></ol>"
+
 			},
 			{
 				"key":"C4",
@@ -465,7 +471,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>Why is this important?</li></ol>"
+
 			}
 		]
 		}

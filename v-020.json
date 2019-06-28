@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -46,7 +46,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -67,7 +67,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B2",
@@ -81,7 +81,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -95,7 +95,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative secures equipment and materials that may be left unattended<li>why is it important to secure equipment and materials that may be left unattended?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -109,7 +109,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -123,7 +123,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B6",
@@ -137,7 +137,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>why is it important to secure equipment and materials that may be left unattended?</li></ol>"
 			},
 			{
 				"key":"B7",
@@ -151,7 +151,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B8",
@@ -165,7 +165,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative is courteous and polite to members of the public: <li>Why is it important to remain courteous and polite to members of the public?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B9",
@@ -179,7 +179,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative avoids conflict and confrontation<li>Describe the conflicts/ confrontations that can occur while litter picking<li>Explain how you would deal with conflicts/ confrontations that can occur while litter picking</ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B10",
@@ -193,7 +193,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative immediately removes any skin or clothing contamination<li>Why is it important to remove any skin or clothing contamination?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B11",
@@ -207,7 +207,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative immediately reports and seeks medical assistance for needle stick injury, cuts or abrasions<li>If a hypodermic needle was seen penetrating a plastic sack what action should you take?</li><li>Why is it important to immediately report and seek medical assistance for needle stick injury, cuts and abrasions?</li></ol>"
+				"supportingText":"<ol><li>Why is it important to remain courteous and polite to members of the public?</li></ol>"
+
 			},
 			{
 				"key":"B12",
@@ -221,7 +222,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Explain how you would deal with conflicts/ confrontations that can occur while litter picking</ol>"
 			},
 			{
 				"key":"B13",
@@ -235,7 +236,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Why is it important to remove any skin or clothing contamination?</li></ol>"
 			},
 			{
 				"key":"B14",
@@ -249,7 +250,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>If a hypodermic needle was seen penetrating a plastic sack what action should you take?</li><li>Why is it important to immediately report and seek medical assistance for needle stick injury, cuts and abrasions?</li></ol>"
 			},
 			{
 				"key":"B15",
@@ -263,7 +264,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B16",
@@ -277,7 +278,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B17",
@@ -291,7 +292,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B18",
@@ -305,7 +306,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B19",
@@ -319,7 +320,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -340,7 +341,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C2",
@@ -354,7 +355,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C3",
@@ -368,7 +369,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C4",
@@ -382,7 +383,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C5",
@@ -396,7 +397,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C6",
@@ -410,7 +411,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative ensures that they are aware of the training required to operate the specific equipment, use the prescribed chemicals and carry out removal techniques on the specific substrate to be treated<li>What is the training required to carry out different types of graffiti removal procedures?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C7",
@@ -424,7 +425,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		}

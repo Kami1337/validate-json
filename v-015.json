@@ -18,7 +18,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<li>What is the company procedure for reporting defective equipment to your supervisor?</li></ol>"
+
 			},
 			{
 				"key":"A2",
@@ -32,7 +33,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the correct training for waste collection operations using tail lifting equipment?</li></ol>"
+
 			},
 			{
 				"key":"A3",
@@ -46,7 +48,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +62,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A5",
@@ -74,7 +76,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A6",
@@ -88,7 +90,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A7",
@@ -102,7 +104,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A8",
@@ -116,7 +118,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A9",
@@ -130,7 +132,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A10",
@@ -144,7 +146,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A11",
@@ -158,7 +160,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A12",
@@ -172,7 +174,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A13",
@@ -186,7 +188,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative takes extra care in dark, wet and icy conditions<li>What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot?</li></ol>"
+				"supportingText":""
 			}
 		]
 		},
@@ -207,7 +209,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B2",
@@ -221,7 +223,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -235,7 +237,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative asks for assistance if load is heavy or awkward<li>Which types of load could require assistance when moving?</li></ol>"
+				"supportingText":"<ol><li>What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot?</li></ol>"
 			},
 			{
 				"key":"B4",
@@ -249,7 +251,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -270,7 +272,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C2",
@@ -284,7 +286,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>Which types of load could require assistance when moving?</li></ol>"
+
 			},
 			{
 				"key":"C3",
@@ -298,7 +301,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative exercises care when manually handling items in wet and icy conditions<li>What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C4",
@@ -312,7 +315,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C5",
@@ -326,7 +329,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative uses handling aids as required including slings and sack-trucks<li>What are the common handling aids available to you?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C6",
@@ -340,7 +343,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What action should be taken to avoid or control adverse effects of wet or icy ground /floor conditions underfoot?</li></ol>"
+
 			},
 			{
 				"key":"C7",
@@ -354,7 +358,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports to supervisor when requests to segregate items will involve difficult manual handling, where there is poor access or where unsecured loads have to be moved around a site: <li>What the usual disposal site regulations regarding the segregation of waste?</li> <li>When is it unsafe to segregate waste at a disposal site?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C8",
@@ -368,7 +372,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative is aware of and follows emergency reporting procedures in an emergency<li>What is the company procedure to follow in the event of an emergency?</li><li>What is the company policy on reporting emergencies to your supervisor?</li></ol>"
+				"supportingText":"<ol><li>What are the common handling aids available to you?</li></ol>"
+
 			}
 		]
 		},
@@ -389,7 +394,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative ensures that mobile phone is useable at all times in the event of an emergency<li>Why is it important to keep your mobile phone useable at all times?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"D2",
@@ -403,7 +408,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What the usual disposal site regulations regarding the segregation of waste?</li> <li>When is it unsafe to segregate waste at a disposal site?</li></ol>"
+
 			}
 		]
 		},
@@ -424,7 +430,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure to follow in the event of an emergency?</li><li>What is the company policy on reporting emergencies to your supervisor?</li></ol>"
+
 			},
 			{
 				"key":"E2",
@@ -438,7 +445,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>Why is it important to keep your mobile phone useable at all times?</li></ol>"
+
 			}
 		]
 		}

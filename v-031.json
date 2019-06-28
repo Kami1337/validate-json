@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -46,7 +46,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -67,7 +67,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative identifies non-conforming materials and takes relevant action in accordance with organisational procedures<li>What action would you take if there are non-conforming materials in a load arriving on site?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B2",
@@ -81,7 +81,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -95,7 +95,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports all accidents, incidents of damage and near misses to supervisor as soon as possible<li>What is the organisational procedure for reporting accidents and near misses?</li><li>What is the organisational procedure for reporting damage?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -109,7 +109,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -123,7 +123,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative follows organisational procedure for dealing with plant, equipment or vehicle breakdowns<li>What is the organisational procedure for dealing with:-Plant breakdowns-Equipment breakdowns-Vehicle breakdowns</ol>"
+				"supportingText":"<ol><li>What action would you take if there are non-conforming materials in a load arriving on site?</li></ol>"
 			},
 			{
 				"key":"B6",
@@ -137,7 +137,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B7",
@@ -151,7 +151,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative identifies non-conforming materials in the tipping-bay area and takes relevant action in accordance with organisational procedures<li>What action would you take if there are non-conforming materials in the tipping bay area?</li></ol>"
+				"supportingText":"<ol><li>What is the organisational procedure for reporting accidents and near misses?</li><li>What is the organisational procedure for reporting damage?</li></ol>"
 			},
 			{
 				"key":"B8",
@@ -165,7 +165,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B9",
@@ -179,7 +179,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the organisational procedure for dealing with:-Plant breakdowns-Equipment breakdowns-Vehicle breakdowns</ol>"
+
 			}
 		]
 		},
@@ -200,7 +201,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C2",
@@ -214,7 +215,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What action would you take if there are non-conforming materials in the tipping bay area?</li></ol>"
+
 			},
 			{
 				"key":"C3",
@@ -228,7 +230,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C4",
@@ -242,7 +244,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C5",
@@ -256,7 +258,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C6",
@@ -270,7 +272,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative identifies hazards in adverse weather conditions such as leaves, snow, water and ice<li>What are the hazards related to snow and ice conditions?</li><li>What are the hazards related to leaves?</li><li>What are the hazards related to excess water?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C7",
@@ -284,7 +286,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative carries out treatment appropriate for the hazardous condition: <li>How would you treat surfaces for snow?</li> Ice?</li> Leaves?</li> Water?</li><li>How would you unblock drains on site?</li><li>Why is this important?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C8",
@@ -298,7 +300,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative informs relevant person(s) in the event of worsening conditions<li>Who should be informed?</li><li>Why is this important?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C9",
@@ -312,7 +314,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -333,7 +335,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What are the hazards related to snow and ice conditions?</li><li>What are the hazards related to leaves?</li><li>What are the hazards related to excess water?</li></ol>"
+
 			},
 			{
 				"key":"D2",
@@ -347,7 +350,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>How would you treat surfaces for snow?</li> Ice?</li> Leaves?</li> Water?</li><li>How would you unblock drains on site?</li><li>Why is this important?</li></ol>"
+
 			},
 			{
 				"key":"D3",
@@ -361,7 +365,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative assists with opening and closure of tipping hall to specified times and following procedure<li>What is the organisational procedure for opening and closing the site?</li><li>What are the permit conditions for opening and closing the site?</li></ol>"
+				"supportingText":"<ol>Operative informs relevant person(s) in the event of worsening conditions<li>Who should be informed?</li><li>Why is this important?</li></ol>"
+
 			}
 		]
 		}

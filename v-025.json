@@ -18,7 +18,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver is aware of the nature of major security risks including criminals, the mentally unstable, terrorists and previous employees: <li>What are the major risks faced when transporting dangerous goods?</li><li>Who are most likely to pose a threat when transporting dangerous goods?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure to be followed when carrying dangerous goods?</li> <li>What is the appropriate training regarding the transport of dangerous goods?</li><li>Which goods are regarded as high consequence dangerous goods?</li></ol>"
+
 			},
 			{
 				"key":"A2",
@@ -32,7 +33,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure to be followed regarding transportable pressure equipment?</li></ol>"
+
 			},
 			{
 				"key":"A3",
@@ -46,7 +48,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +62,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What are the major risks faced when transporting dangerous goods?</li><li>Who are most likely to pose a threat when transporting dangerous goods?</li></ol>"
+
 			},
 			{
 				"key":"A5",
@@ -74,7 +77,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -95,7 +98,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B2",
@@ -109,7 +112,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -123,7 +126,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -137,7 +140,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -151,7 +154,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver reports any suspicious behaviour to supervisor immediately<li>What is the company procedure for reporting any suspicious behaviour?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B6",
@@ -165,7 +168,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver reports any suspicions of vehicle having been tampered with to supervisor immediately<li>What is the company procedure for reporting any suspicions you have that the vehicle has been tampered with to your supervisor?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B7",
@@ -179,7 +182,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver relinquishes vehicle and offers no resistance to assailants in the event of a physical threat or forced entry: <li>What is the company procedure in the event of any physical threat to yourself or forced entry into the vehicle?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B8",
@@ -193,7 +196,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver reports any physical threats or forced entry to supervisor immediately<li>What is the company procedure for reporting physical threats or forced entry to your supervisor?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure for reporting any suspicious behaviour?</li></ol>"
+
 			},
 			{
 				"key":"C1",
@@ -207,7 +211,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver reports theft of vehicle to supervisor immediately<li>What is the company procedure for reporting the theft of a vehicle to your supervisor?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure for reporting any suspicions you have that the vehicle has been tampered with to your supervisor?</li></ol>"
+
 			},
 			{
 				"key":"C2",
@@ -221,7 +226,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure in the event of any physical threat to yourself or forced entry into the vehicle?</li></ol>"
+
 			},
 			{
 				"key":"C3",
@@ -235,7 +241,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for reporting physical threats or forced entry to your supervisor?</li></ol>"
+
 			},
 			{
 				"key":"C4",
@@ -249,7 +256,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for reporting the theft of a vehicle to your supervisor?</li></ol>"
+
 			}
 		]
 		}

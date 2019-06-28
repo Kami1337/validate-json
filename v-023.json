@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -46,7 +46,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +60,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that only authorised passengers ride in the vehicle and that seat belts are worn at required times<li>Why are unauthorised passengers not allowed to ride in the vehicle?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A5",
@@ -74,7 +74,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that employees do not ride on the back or any other part of the vehicle<li>Why is it important that employees do not ride on the back or any other part of the vehicle?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A6",
@@ -88,7 +88,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A7",
@@ -102,7 +102,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Why are unauthorised passengers not allowed to ride in the vehicle?</li></ol>"
 			},
 			{
 				"key":"A8",
@@ -116,7 +116,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Why is it important that employees do not ride on the back or any other part of the vehicle?</li></ol>"
 			},
 			{
 				"key":"A9",
@@ -130,10 +130,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A10   ",
+				"key":"A10",
 				"methods": [
 					"O",
 					"Q/A"
@@ -144,10 +144,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative confirms they have been trained to operate lifting equipment on the POD<li>What is the correct training for operating lifting equipment on a POD?</li></ol>"
+				"supportingText":""
 			},
 			{
-				"key":"A11   ",
+				"key":"A11",
 				"methods": [
 					"O",
 					"Q/A"
@@ -158,10 +158,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A12   ",
+				"key":"A12",
 				"methods": [
 					"O",
 					"Q/A"
@@ -172,7 +172,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -193,7 +193,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the correct training for operating lifting equipment on a POD?</li></ol>"
+
 			},
 			{
 				"key":"B2",
@@ -207,7 +208,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -221,7 +222,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports any damaged bins during the collection to the driver to assess if new bin can be provided or return to depot is necessary<li>What is the company procedure for reporting damage to bins during collection to your supervisor?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -235,7 +236,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operate ensures that route risk assessments are followed when operating equipment during collection<li>What is a route risk assessment?</li><li>How does a route risk assessment affect the way you collect waste?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -249,7 +250,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B6",
@@ -263,7 +264,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for reporting damage to bins during collection to your supervisor?</li></ol>"
+
 			},
 			{
 				"key":"B7",
@@ -277,7 +279,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports to the driver when bins have become detached from the lift or fall into the POD<li>What is the company procedure for reporting detached bins to the driver?</li></ol>"
+				"supportingText":"<ol><li>What is a route risk assessment?</li><li>How does a route risk assessment affect the way you collect waste?</li></ol>"
+
 			},
 			{
 				"key":"B8",
@@ -291,7 +294,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B9",
@@ -305,7 +308,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B10",
@@ -319,7 +322,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for reporting detached bins to the driver?</li></ol>"
+
 			},
 			{
 				"key":"B11",
@@ -333,7 +337,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B12",
@@ -347,7 +351,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B13",
@@ -361,7 +365,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -382,7 +386,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C2",
@@ -396,7 +400,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C3",
@@ -410,7 +414,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C4",
@@ -424,7 +428,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C5",
@@ -438,7 +442,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C6",
@@ -452,7 +456,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -473,7 +477,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D2",
@@ -487,7 +491,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D3",
@@ -501,7 +505,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D4",
@@ -515,7 +519,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"D5",
@@ -529,7 +533,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver is conscious of special care to be exercised where members of the public may be elderly, infirm, blind or partially sighted<li>Which members of the public are at special risk during waste collection?</li><li>What precautions do you take to protect members of the public at special risk?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"D6",
@@ -543,7 +547,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -564,7 +568,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E2",
@@ -578,7 +582,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>Which members of the public are at special risk during waste collection?</li><li>What precautions do you take to protect members of the public at special risk?</li></ol>"
+
 			},
 			{
 				"key":"E3",
@@ -592,7 +597,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		}

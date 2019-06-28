@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -46,7 +46,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Any defects identified and reported to appropriate personnel<li>What is the company procedure for reporting defects to appropriate personnel?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +60,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A5",
@@ -68,13 +68,14 @@
 					"O",
 					"Q/A"
 				],
-				"name":"Any defects identified and  reported to appropriate personnel",
+				"name":"Any defects identified and reported to appropriate personnel",
 				"values": {
 					"Competent": 1,
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for reporting defects to appropriate personnel?</li></ol>"
+
 			},
 			{
 				"key":"A6",
@@ -88,7 +89,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that only authorised passengers ride in the vehicle and that seat belts are worn at required times<li>Why are unauthorised passengers not allowed to ride in the vehicle?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A7",
@@ -102,7 +103,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that employees do not ride on the back or any other part of the vehicle<li>Why is it important that employees do not ride on the back or any other part of the vehicle?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A8",
@@ -116,7 +117,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>Why are unauthorised passengers not allowed to ride in the vehicle?</li></ol>"
+
 			},
 			{
 				"key":"A9",
@@ -130,10 +132,11 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Why is it important that employees do not ride on the back or any other part of the vehicle?</li></ol>"
+
 			},
 			{
-				"key":"A10   ",
+				"key":"A10",
 				"methods": [
 					"O",
 					"Q/A"
@@ -144,10 +147,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A11   ",
+				"key":"A11",
 				"methods": [
 					"O",
 					"Q/A"
@@ -158,10 +161,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver check that the vehicle is loaded safely with no over-loading or overhanging items<li>Why is it necessary to remove over-hanging items?</li><li>Why is it necessary to check the vehicle is not over-loaded?</li></ol>"
+				"supportingText":""
 			},
 			{
-				"key":"A12   ",
+				"key":"A12",
 				"methods": [
 					"O",
 					"Q/A"
@@ -172,10 +175,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A13   ",
+				"key":"A13",
 				"methods": [
 					"O",
 					"Q/A"
@@ -186,10 +189,11 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>Why is it necessary to remove over-hanging items?</li><li>Why is it necessary to check the vehicle is not over-loaded?</li></ol>"
+
 			},
 			{
-				"key":"A14   ",
+				"key":"A14",
 				"methods": [
 					"O",
 					"Q/A"
@@ -200,10 +204,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A15   ",
+				"key":"A15",
 				"methods": [
 					"O",
 					"Q/A"
@@ -214,10 +218,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A16   ",
+				"key":"A16",
 				"methods": [
 					"O",
 					"Q/A"
@@ -228,10 +232,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A17   ",
+				"key":"A17",
 				"methods": [
 					"O",
 					"Q/A"
@@ -242,7 +246,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -263,7 +267,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B2",
@@ -277,7 +281,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -291,7 +295,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -305,7 +309,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -319,7 +323,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver reports to supervisor when waste pits do not have vehicle stop blocks in place<li>What is the company procedure for reporting to supervisor when waste pits do not have vehicle stop blocks?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B6",
@@ -333,7 +337,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B7",
@@ -347,7 +351,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver checks that the vehicle conforms to the signage requirements for operating on a public highway<li>What are the requirements for vehicles operating on a public highway?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B8",
@@ -361,7 +365,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the company procedure for reporting to supervisor when waste pits do not have vehicle stop blocks?</li></ol>"
+
 			},
 			{
 				"key":"B9",
@@ -375,7 +380,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B10",
@@ -389,7 +394,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What are the requirements for vehicles operating on a public highway?</li></ol>"
+
 			},
 			{
 				"key":"B11",
@@ -403,7 +409,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B12",
@@ -417,7 +423,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver only uses four-way hazard lights in an emergency or when vehicle has broken down<li>When should four-way hazard lights be used?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B13",
@@ -431,7 +437,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B14",
@@ -445,7 +451,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B15",
@@ -459,7 +465,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>When should four-way hazard lights be used?</li></ol>"
+
 			}
 		]
 		},
@@ -480,7 +487,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C2",
@@ -494,7 +501,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C3",
@@ -508,7 +515,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C4",
@@ -522,7 +529,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C5",
@@ -536,7 +543,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C6",
@@ -550,7 +557,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C7",
@@ -564,7 +571,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C8",
@@ -578,7 +585,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C9",
@@ -592,7 +599,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C10",
@@ -606,7 +613,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C11",
@@ -620,7 +627,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C12",
@@ -634,7 +641,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that all personnel involved with handling asbestos bearing material have received the relevant training<li>Why is training required?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C13",
@@ -648,7 +655,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that in the case of asbestos only bonded white asbestos products are removed<li>What is the company procedure for the types of asbestos that can be removed?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C14",
@@ -662,7 +669,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver puts on disposable paper over-suit, paper overshoes and specified disposable dust mask before approaching bonded white asbestos products<li>What types of personal protection equipment must be worn when following company procedures for the removal of asbestos waste?</li></ol>"
+				"supportingText":""
 			}
 		]
 		},
@@ -683,7 +690,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver bags or wraps all asbestos containing products in clear polythene and marks them up correctly<li>What are the company procedures for the bagging, wrapping and labelling of asbestos waste?</li> </ol>"
+				"supportingText":"<ol><li>Why is training required?</li></ol>"
 			},
 			{
 				"key":"D2",
@@ -697,7 +704,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver double bags all paper over-suits, overshoes, masks and gloves at the end of the clean-up operation in clear polythene and marks it as asbestos waste<li>What are the company procedures for the bagging and labelling of personal protective equipment used in the removal of asbestos waste?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure for the types of asbestos that can be removed?</li></ol>"
+
 			},
 			{
 				"key":"D3",
@@ -711,7 +719,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver disposes of asbestos waste at a licensed disposal facility<li>What are the company procedures for the disposal of asbestos waste at a licensed disposal facility?</li></ol>"
+				"supportingText":"<ol><li>What types of personal protection equipment must be worn when following company procedures for the removal of asbestos waste?</li></ol>"
+
 			},
 			{
 				"key":"D4",
@@ -725,7 +734,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What are the company procedures for the bagging, wrapping and labelling of asbestos waste?</li> </ol>"
+
 			},
 			{
 				"key":"D5",
@@ -739,7 +749,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What are the company procedures for the bagging and labelling of personal protective equipment used in the removal of asbestos waste?</li></ol>"
+
 			},
 			{
 				"key":"D6",
@@ -753,7 +764,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What are the company procedures for the disposal of asbestos waste at a licensed disposal facility?</li></ol>"
+
 			}
 		]
 		},
@@ -774,7 +786,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E2",
@@ -788,7 +800,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -809,7 +821,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F2",
@@ -823,7 +835,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F3",
@@ -837,7 +849,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F4",
@@ -851,7 +863,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F5",
@@ -865,7 +877,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F6",
@@ -879,7 +891,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F7",
@@ -893,7 +905,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F8",
@@ -907,7 +919,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F9",
@@ -921,7 +933,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F10",
@@ -935,7 +947,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F11",
@@ -949,7 +961,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		}

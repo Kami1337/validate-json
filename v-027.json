@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Any defects identified and reported to appropriate personnel<li>What is the procedure for reporting defects to appropriate personnel?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -46,7 +46,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +60,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A5",
@@ -74,7 +74,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that only authorised passengers ride in the vehicle and that seat belts are worn at required times<li>Why are unauthorised passengers not allowed to ride in the vehicle?</li></ol>"
+				"supportingText":"<ol><li>What is the procedure for reporting defects to appropriate personnel?</li></ol>"
 			},
 			{
 				"key":"A6",
@@ -88,7 +88,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that employees do not ride on the back or any other part of the vehicle<li>Why is it important that employees do not ride on the back or any other part of the vehicle?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"A7",
@@ -102,7 +102,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A8",
@@ -116,7 +116,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>Why are unauthorised passengers not allowed to ride in the vehicle?</li></ol>"
+
 			},
 			{
 				"key":"A9",
@@ -130,10 +131,11 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>Why is it important that employees do not ride on the back or any other part of the vehicle?</li></ol>"
+
 			},
 			{
-				"key":"A10   ",
+				"key":"A10",
 				"methods": [
 					"O",
 					"Q/A"
@@ -144,10 +146,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver check that the vehicle is loaded safely with no over-loading or overhanging items<li>Why is it necessary to remove over-hanging items?</li><li>Why is it necessary to check the vehicle is not over-loaded?</li></ol>"
+				"supportingText":""
 			},
 			{
-				"key":"A11   ",
+				"key":"A11",
 				"methods": [
 					"O",
 					"Q/A"
@@ -158,10 +160,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
-				"key":"A12   ",
+				"key":"A12",
 				"methods": [
 					"O",
 					"Q/A"
@@ -172,10 +174,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver is aware of and has undertaken training in the operation of bulk articulated trailers<li>What is the correct training for the operation of bulk ejector trailers?</li></ol>"
+				"supportingText":""
 			},
 			{
-				"key":"A13   ",
+				"key":"A13",
 				"methods": [
 					"O",
 					"Q/A"
@@ -186,10 +188,11 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>Why is it necessary to remove over-hanging items?</li><li>Why is it necessary to check the vehicle is not over-loaded?</li></ol>"
+
 			},
 			{
-				"key":"A14   ",
+				"key":"A14",
 				"methods": [
 					"O",
 					"Q/A"
@@ -200,7 +203,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver complies with all site safety rules when on customer’s premises or tipping sites<li>What are the major safety rules that must be complied with on customer’s premises?</li><li>What are the major safety rules that must be complied with on tipping sites?</li></ol>"
+				"supportingText":""
 			}
 		]
 		},
@@ -221,7 +224,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				 "supportingText":"<ol><li>What is the correct training for the operation of bulk ejector trailers?</li></ol>"
+
 			},
 			{
 				"key":"B2",
@@ -235,7 +239,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -249,7 +253,9 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+
+				 "supportingText":"<ol><li>What are the major safety rules that must be complied with on customer’s premises?</li><li>What are the major safety rules that must be complied with on tipping sites?</li></ol>"
+
 			},
 			{
 				"key":"B4",
@@ -263,7 +269,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver uses secure lockable steps, an access platform or a fall-arrest system when trimming the load is not possible from ground level<li>Which types of equipment must be used if you cannot trim the load from ground level?</li></ol>"
+				"supportingText":""
 			}
 		]
 		},
@@ -284,7 +290,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that correct protection procedures are followed when working from height<li>What is the company procedure for protecting yourself when working from height?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C2",
@@ -298,7 +304,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver informs supervisor if unable to work safely from height<li>What is the company procedure for informing supervisor if you are unable to work from height?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C3",
@@ -312,7 +318,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that assistance is available when using a fall-arrest system to prevent suspension trauma<li>Why is it important to ensure someone is with you when using a fall-arrest system?</li></ol>"
+				"supportingText":"<ol><li>Which types of equipment must be used if you cannot trim the load from ground level?</li></ol>"
+
 			},
 			{
 				"key":"C4",
@@ -326,7 +333,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures safety harness is correctly adjusted before use<li>How do you adjust a safety harness before use?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure for protecting yourself when working from height?</li></ol>"
 			},
 			{
 				"key":"C5",
@@ -340,7 +347,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver follows company procedure for the checking and storage of safety harnesses<li>What is the company procedure for checking and storing safety harnesses?</li></ol>"
+				"supportingText":"<ol><li>What is the company procedure for informing supervisor if you are unable to work from height?</li></ol>"
 			},
 			{
 				"key":"C6",
@@ -354,7 +361,9 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver reports any problems over the condition and use of the safety harness to supervisor<li>What is the company procedure for reporting any problems over the condition or use of the safety harness to your supervisor?</li></ol>"
+				"supportingText":"<ol><li>Why is it important to ensure someone is with you when using a fall-arrest system?</li></ol>"
+				
+
 			},
 			{
 				"key":"C7",
@@ -368,7 +377,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver reports any problems over the condition and use of the safety harness to supervisor<li>What is the company procedure for reporting any problems over the condition or use of the safety harness to your supervisor?</li> </ol>"
+				"supportingText":""
 			}
 		]
 		},
@@ -389,7 +398,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver ensures that the safety harness is never used when alone<li>Why is it important never to use a safety harness if working alone?</li></ol>"
+				"supportingText":"<ol><li>How do you adjust a safety harness before use?</li></ol>"
 			},
 			{
 				"key":"D2",
@@ -403,7 +412,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the company procedure for checking and storing safety harnesses?</li></ol>"
 			},
 			{
 				"key":"D3",
@@ -417,7 +426,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the company procedure for reporting any problems over the condition or use of the safety harness to your supervisor?</li> </ol>"
+
 			},
 			{
 				"key":"D4",
@@ -431,7 +441,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Why is it important never to use a safety harness if working alone?</li></ol>"
+
 			}
 		]
 		},
@@ -452,7 +463,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E2",
@@ -466,7 +477,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E3",
@@ -480,7 +491,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E4",
@@ -494,7 +505,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E5",
@@ -508,7 +519,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E6",
@@ -522,7 +533,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E7",
@@ -536,7 +547,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E8",
@@ -550,7 +561,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E9",
@@ -564,7 +575,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E10",
@@ -578,7 +589,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E11",
@@ -592,7 +603,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E12",
@@ -606,7 +617,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -627,7 +638,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F2",
@@ -641,7 +652,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F3",
@@ -655,7 +666,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F4",
@@ -669,7 +680,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F5",
@@ -683,7 +694,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F6",
@@ -697,7 +708,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F7",
@@ -711,7 +722,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F8",
@@ -725,7 +736,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F9",
@@ -739,7 +750,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F10",
@@ -753,7 +764,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F11",
@@ -767,7 +778,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F12",
@@ -781,7 +792,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F13",
@@ -795,7 +806,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F14",
@@ -809,7 +820,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F15",
@@ -823,7 +834,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F16",
@@ -837,7 +848,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"F17",
@@ -851,7 +862,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		}

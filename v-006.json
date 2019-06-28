@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports defective personal protective equipment (PPE) and requests replacement(s)<li>When would you report your PPE as not being fit for purpose?</li><li>Who and how would you report this?</li></ol>"
+ 				"supportingText":"<ol><li>When would you report your PPE as not being fit for purpose?</li><li>Who and how would you report this?</li></ol>"
 			},
 			{
 				"key":"A3",
@@ -46,7 +46,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +60,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A5",
@@ -74,7 +74,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -95,7 +95,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B2",
@@ -109,7 +109,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -123,7 +123,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports any equipment defects<li>What is the company procedure for reporting equipment defects?</li></ol>"
+ 				"supportingText":"<ol><li>What is the company procedure for reporting equipment defects?</li></ol>"
 			},
 			{
 				"key":"B4",
@@ -137,7 +137,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -151,7 +151,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative reports contamination in waste to be baled<li>What action would you take if you identified non-conforming materials about to be baled?</li></ol>"
+ 				"supportingText":"<ol><li>What action would you take if you identified non-conforming materials about to be baled?</li></ol>"
 			},
 			{
 				"key":"B6",
@@ -165,7 +165,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B7",
@@ -179,7 +179,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative clears and reports blockages in accordance with company procedures<li>What steps should you undertake if the baler is blocked?</li><li>Why is it important to follow the correct process when the baler is blocked?</li></ol>"
+ 				"supportingText":"<ol><li>What steps should you undertake if the baler is blocked?</li><li>Why is it important to follow the correct process when the baler is blocked?</li></ol>"
 			}
 		]
 		},
@@ -200,7 +200,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C2",
@@ -214,7 +214,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C3",
@@ -228,7 +228,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative completes any incident reporting documentation<li>Why is it important to complete this documentation?</li></ol>"
+ 				"supportingText":"<ol><li>Why is it important to complete this documentation?</li></ol>"
 			}
 		]
 		},
@@ -238,7 +238,7 @@
 		"competencies": [
 			
 			{
-				"key":"D1    ",
+				"key":"D1",
 				"methods": [
 					"O",
 					"Q/A"
@@ -249,10 +249,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative identifies key hazards associated with baling activities<li>Identify examples of the key hazards associated with baling?</li></ol>"
+ 				"supportingText":"<ol><li>Identify examples of the key hazards associated with baling?</li></ol>"
 			},
 			{
-				"key":"D2    ",
+				"key":"D2",
 				"methods": [
 					"O",
 					"Q/A"
@@ -263,10 +263,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative aware of potential emergencies<li>What type of emergency could occur when baling?</li></ol>"
+ 				"supportingText":"<ol><li>What type of emergency could occur when baling?</li></ol>"
 			},
 			{
-				"key":"D3    ",
+				"key":"D3",
 				"methods": [
 					"O",
 					"Q/A"
@@ -277,10 +277,10 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative follows emergency procedures<li>What action are you required to take in an emergency?</li></ol>"
+ 				"supportingText":"<ol><li>What action are you required to take in an emergency?</li></ol>"
 			},
 			{
-				"key":"D4    ",
+				"key":"D4",
 				"methods": [
 					"O",
 					"Q/A"
@@ -291,7 +291,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Operative follows company procedures to report pollution incidents and accidents that may occur<li>When might you need to report an accident/ incident?</li></ol>"
+ 				"supportingText":"<ol><li>When might you need to report an accident/ incident?</li></ol>"
 			}
 		]
 		},
@@ -312,7 +312,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E2",
@@ -326,7 +326,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"E3",
@@ -340,7 +340,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		}

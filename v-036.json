@@ -18,7 +18,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A2",
@@ -32,7 +32,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A3",
@@ -46,7 +46,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A4",
@@ -60,7 +60,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A5",
@@ -74,7 +74,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"A6",
@@ -88,7 +88,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -109,7 +109,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B2",
@@ -123,7 +123,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B3",
@@ -137,7 +137,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver/Operative demonstrates procedure for dealing with leaking containers containing clinical waste<li>What would you do if you found an infectious clinical waste container that was leaking?</li> (Spillage and re-containment process)<li>Where is the ADR/Spillage kit located on your vehicle?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B4",
@@ -151,7 +151,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B5",
@@ -165,7 +165,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B6",
@@ -173,13 +173,14 @@
 					"O",
 					"Q/A"
 				],
-				"name":"Driver/Operative  demonstrates procedure for dealing with leaking containers containing clinical waste",
+				"name":"Driver/Operative demonstrates procedure for dealing with leaking containers containing clinical waste",
 				"values": {
 					"Competent": 1,
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What would you do if you found an infectious clinical waste container that was leaking?</li><li>Where is the ADR/Spillage kit located on your vehicle?</li></ol>"
+
 			},
 			{
 				"key":"B7",
@@ -193,7 +194,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver/Operative ensures any cut or abrasion is suitably cleaned and covered before starting the handling process<li>If you had a cut on your hand, what action would you take before starting your collections?</li><li>What are the potential risks of not covering an open wound when dealing with soiled/infectious materials?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B8",
@@ -207,7 +208,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver/Operative reports any injury, accident or near miss as per company procedure<li>What would you do if you injured your leg when moving some rigid waste containers?</li><li>What is the company procedure for reporting accidents?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"B9",
@@ -221,7 +222,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B10",
@@ -235,7 +236,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B11",
@@ -249,7 +250,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>If you had a cut on your hand, what action would you take before starting your collections?</li><li>What are the potential risks of not covering an open wound when dealing with soiled/infectious materials?</li></ol>"
+
 			},
 			{
 				"key":"B12",
@@ -263,7 +265,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What would you do if you injured your leg when moving some rigid waste containers?</li><li>What is the company procedure for reporting accidents?</li></ol>"
+
 			},
 			{
 				"key":"B13",
@@ -277,7 +280,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"B14",
@@ -291,7 +294,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			}
 		]
 		},
@@ -312,7 +315,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C2",
@@ -326,7 +329,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C3",
@@ -340,7 +343,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver/Operative reports spillage (and action taken) to supervisor and assists in completing a non-conformance report<li>What is the company procedure for reporting spillages?</li><li>Why is it important to investigate the causes of a clinical waste spillage?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C4",
@@ -354,7 +357,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver/Operative contacts the relevant authorities in the event of a spillage/accident on a public highway<li>Who would you inform in the event of a spillage or vehicle accident?</li>Why is it important to investigate the causes of a clinical waste spillage?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C5",
@@ -368,7 +371,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver/Operative correctly identifies the range of sharp implements that may be present in the clinical/healthcare waste streams<li>Give some examples of sharp objects that may be found in the clinical/healthcare waste stream.<li>What type of container should be used to contain sharps?</li><li>Are sharps generally considered to be infectious or non-infectious?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"C6",
@@ -382,7 +385,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+ 				"supportingText":""
 			},
 			{
 				"key":"C7",
@@ -396,7 +399,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>What is the company procedure for reporting spillages?</li><li>Why is it important to investigate the causes of a clinical waste spillage?</li></ol>"
+
 			},
 			{
 				"key":"C8",
@@ -410,7 +414,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Who would you inform in the event of a spillage or vehicle accident?</li>Why is it important to investigate the causes of a clinical waste spillage?</li></ol>"
+
 			}
 		]
 		},
@@ -431,7 +436,8 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol></ol>"
+				"supportingText":"<ol><li>Give some examples of sharp objects that may be found in the clinical/healthcare waste stream.<li>What type of container should be used to contain sharps?</li><li>Are sharps generally considered to be infectious or non-infectious?</li></ol>"
+
 			},
 			{
 				"key":"D2",
@@ -445,7 +451,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver/Operative implements the local procedure for dealing with a needle-stick injury<li>Describe how you would treat yourself or a colleague who had received a needle-stick injury.<li>What action would you take if you received a sharps injury at the collection (producer) site?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"D3",
@@ -459,7 +465,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver/Operative implements the procedure for completing an accident form in the event of sharps injury<li>Who would you report a needle-stick injury to in the first instance?</li><li>Where is the company accident book located?</li><li>Who is responsible for co-ordinating the reporting of accidents and incidents in your company?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"D4",
@@ -473,7 +479,7 @@
 					"Incompetent": -1,
 					"Unable to assess": 0
 				},
- 				"supportingText":"<ol>Driver/Operative reports sharps injury/non-conformance (and action taken) to supervisor and assists in completing relevant reports<li>What information do you need to provide to your supervisor for the report?</li><li>How do you think needle-stick injuries can be avoided in the future?</li></ol>"
+				"supportingText":""
 			},
 			{
 				"key":"D5",
@@ -499,7 +505,9 @@
 					"Competent": 1,
 					"Incompetent": -1,
 					"Unable to assess": 0
-                }
+				},
+				"supportingText":"<ol><li>Describe how you would treat yourself or a colleague who had received a needle-stick injury.<li>What action would you take if you received a sharps injury at the collection (producer) site?</li></ol>"
+
             },
 			{
 				"key":"D7",
@@ -512,7 +520,9 @@
 					"Competent": 1,
 					"Incompetent": -1,
 					"Unable to assess": 0
-                }
+				},
+				"supportingText":"<ol><li>Who would you report a needle-stick injury to in the first instance?</li><li>Where is the company accident book located?</li><li>Who is responsible for co-ordinating the reporting of accidents and incidents in your company?</li></ol>"
+
             },
 			{
 				"key":"D8",
@@ -525,7 +535,9 @@
 					"Competent": 1,
 					"Incompetent": -1,
 					"Unable to assess": 0
-            }
+			},
+			"supportingText":"<ol><li>What information do you need to provide to your supervisor for the report?</li><li>How do you think needle-stick injuries can be avoided in the future?</li></ol>"
+
         }
     ]
     }
